@@ -31,7 +31,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
     "online_date": "2026/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Scenario Library and Simulation Testing for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210083",
@@ -63,7 +68,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
     "online_date": "2026/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Advanced Planning algorithms for ICVs",
+      "Public Interest and Market Research for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210082",
@@ -95,7 +105,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
     "online_date": "2026/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Human-Machine Interface (HMI) and Collaborative Driving",
+      "Scenario Library and Simulation Testing for ICVs",
+      "Advanced Planning algorithms for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210081",
@@ -128,7 +143,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
     "online_date": "2026/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Scenario Library and Simulation Testing for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210080",
@@ -159,7 +179,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
     "online_date": "2026/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Status, Challenges, and Future trends of ICVs",
+      "Human-Machine Interface (HMI) and Collaborative Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210079",
@@ -192,7 +217,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
     "online_date": "2026/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Environmental Perception for ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210078",
@@ -226,7 +256,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
     "online_date": "2026/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Driver Assistance Systems for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210077",
@@ -250,7 +285,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
     "online_date": "2026/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Environmental Perception for ICVs",
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210076",
@@ -278,7 +318,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
     "online_date": "2026/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Status, Challenges, and Future trends of ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Intelligent and Connected Fleet and Charging Management"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210075",
@@ -307,7 +352,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
     "online_date": "2026/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Environmental Perception for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210074",
@@ -340,7 +390,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
     "online_date": "2026/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Environmental Perception for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Advanced Planning algorithms for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210073",
@@ -375,7 +430,12 @@
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
     "online_date": "2026/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Environmental Perception for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210072",
@@ -408,7 +468,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/11/30",
     "online_date": "2025/12/25",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Scenario Library and Simulation Testing for ICVs",
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210071",
@@ -439,7 +504,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/11/30",
     "online_date": "2025/12/25",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210070",
@@ -479,7 +549,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/11/30",
     "online_date": "2025/12/25",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Scenario Library and Simulation Testing for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210069",
@@ -513,7 +588,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/11/30",
     "online_date": "2025/12/25",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2026.9210068",
@@ -545,7 +625,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/11/30",
     "online_date": "2025/12/25",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Human-Machine Interface (HMI) and Collaborative Driving",
+      "Status, Challenges, and Future trends of ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210067",
@@ -577,7 +662,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/11/30",
     "online_date": "2025/12/25",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Safety, Reliability and Security for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210066",
@@ -610,7 +700,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/9/30",
     "online_date": "2025/9/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Safety, Reliability and Security for ICVs",
+      "Scenario Library and Simulation Testing for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210065",
@@ -644,7 +739,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/9/30",
     "online_date": "2025/9/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Safety, Reliability and Security for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210064",
@@ -676,7 +776,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/9/30",
     "online_date": "2025/9/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Advanced Planning algorithms for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210062",
@@ -704,7 +809,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/9/30",
     "online_date": "2025/9/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Environmental Perception for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210061",
@@ -737,7 +847,11 @@
     "issn": "2399-9802",
     "publication_date": "2025/9/30",
     "online_date": "2025/9/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Intelligent and Connected Fleet and Charging Management"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210058",
@@ -767,7 +881,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/9/30",
     "online_date": "2025/9/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Scenario Library and Simulation Testing for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Safety, Reliability and Security for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210063",
@@ -797,7 +916,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/6/30",
     "online_date": "2025/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Public Interest and Market Research for ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210060",
@@ -829,7 +953,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/6/30",
     "online_date": "2025/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210059",
@@ -853,7 +982,10 @@
     "issn": "2399-9802",
     "publication_date": "2025/6/30",
     "online_date": "2025/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210057",
@@ -889,7 +1021,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/6/30",
     "online_date": "2025/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210056",
@@ -921,7 +1058,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/6/30",
     "online_date": "2025/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2025.9210055",
@@ -953,7 +1095,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/6/30",
     "online_date": "2025/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Environmental Perception for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Safety, Reliability and Security for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2024.9210054",
@@ -987,7 +1134,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/3/31",
     "online_date": "2025/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Safety, Reliability and Security for ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2024.9210053",
@@ -1021,7 +1173,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/3/31",
     "online_date": "2025/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Safety, Reliability and Security for ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2024.9210052",
@@ -1053,7 +1210,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/3/31",
     "online_date": "2025/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Human-Machine Interface (HMI) and Collaborative Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2024.9210051",
@@ -1085,7 +1247,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/3/31",
     "online_date": "2025/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "ICV-Based Traffic Analysis Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2024.9210048",
@@ -1115,7 +1282,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/3/31",
     "online_date": "2025/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Scenario Library and Simulation Testing for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2024.9210045",
@@ -1149,7 +1321,12 @@
     "issn": "2399-9802",
     "publication_date": "2025/3/31",
     "online_date": "2025/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Scenario Library and Simulation Testing for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "ICV-Based Traffic Analysis Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210050",
@@ -1182,7 +1359,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/12/31",
     "online_date": "2024/12/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "ICV-Based Traffic Analysis Systems",
+      "Status, Challenges, and Future trends of ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210047",
@@ -1211,7 +1393,11 @@
     "issn": "2399-9802",
     "publication_date": "2024/12/31",
     "online_date": "2024/12/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "ICV-Based Traffic Analysis Systems",
+      "Vehicle-to-everything (V2X) Communication and Vehicle Infrastructure Cooperative Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210046",
@@ -1243,7 +1429,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/12/31",
     "online_date": "2024/12/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Vehicle-to-everything (V2X) Communication and Vehicle Infrastructure Cooperative Systems",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210044",
@@ -1275,7 +1466,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/12/31",
     "online_date": "2024/12/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Advanced Planning algorithms for ICVs",
+      "Safety, Reliability and Security for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210042",
@@ -1300,7 +1496,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/12/31",
     "online_date": "2024/12/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Environmental Perception for ICVs",
+      "Intelligent Driving Decision-making and Control",
+      "Status, Challenges, and Future trends of ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210039",
@@ -1334,7 +1535,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/9/30",
     "online_date": "2024/9/26",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Scenario Library and Simulation Testing for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210038",
@@ -1365,7 +1571,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/9/30",
     "online_date": "2024/9/26",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "ICV-Based Traffic Analysis Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210035",
@@ -1399,7 +1610,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/9/30",
     "online_date": "2024/9/26",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Scenario Library and Simulation Testing for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Human-Machine Interface (HMI) and Collaborative Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210030",
@@ -1433,7 +1649,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/9/30",
     "online_date": "2024/9/26",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "ICV-Based Traffic Analysis Systems",
+      "Advanced Planning algorithms for ICVs",
+      "Environmental Perception for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210043",
@@ -1463,7 +1684,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/9/30",
     "online_date": "2024/9/26",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Public Interest and Market Research for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Status, Challenges, and Future trends of ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210049",
@@ -1494,7 +1720,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/9/30",
     "online_date": "2024/9/26",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Status, Challenges, and Future trends of ICVs",
+      "Environmental Perception for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210037",
@@ -1523,7 +1754,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Public Interest and Market Research for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Environmental Perception for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210036",
@@ -1553,7 +1789,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Human-Machine Interface (HMI) and Collaborative Driving",
+      "Safety, Reliability and Security for ICVs",
+      "Vehicle-to-everything (V2X) Communication and Vehicle Infrastructure Cooperative Systems"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210034",
@@ -1585,7 +1826,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Environmental Perception for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Human-Machine Interface (HMI) and Collaborative Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210028",
@@ -1614,7 +1860,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Public Interest and Market Research for ICVs",
+      "Status, Challenges, and Future trends of ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210027",
@@ -1645,7 +1896,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Environmental Perception for ICVs",
+      "Advanced Planning algorithms for ICVs",
+      "Intelligent Driving Decision-making and Control"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210026",
@@ -1677,7 +1933,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Advanced Planning algorithms for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210040",
@@ -1702,7 +1963,11 @@
     "issn": "2399-9802",
     "publication_date": "2024/6/30",
     "online_date": "2024/6/30",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Status, Challenges, and Future trends of ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210041",
@@ -1734,7 +1999,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/3/31",
     "online_date": "2024/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Status, Challenges, and Future trends of ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210033",
@@ -1766,7 +2036,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/3/31",
     "online_date": "2024/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Intelligent and Connected Fleet and Charging Management",
+      "Advanced Planning algorithms for ICVs",
+      "Decision and Control of ICVs for Autonomous Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210032",
@@ -1797,7 +2072,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/3/31",
     "online_date": "2024/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Advanced Planning algorithms for ICVs",
+      "Safety, Reliability and Security for ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210031",
@@ -1832,7 +2112,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/3/31",
     "online_date": "2024/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Advanced Planning algorithms for ICVs",
+      "Human-Machine Interface (HMI) and Collaborative Driving"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210025",
@@ -1868,7 +2153,12 @@
     "issn": "2399-9802",
     "publication_date": "2024/3/31",
     "online_date": "2024/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Decision and Control of ICVs for Autonomous Driving",
+      "Advanced Planning algorithms for ICVs",
+      "Scenario Library and Simulation Testing for ICVs"
+    ]
   },
   {
     "doi": "10.26599/JICV.2023.9210019",
@@ -1897,6 +2187,11 @@
     "issn": "2399-9802",
     "publication_date": "2024/3/31",
     "online_date": "2024/3/31",
-    "internal_id": ""
+    "internal_id": "",
+    "research_area": [
+      "Status, Challenges, and Future trends of ICVs",
+      "Deployment and Operations of ICVs within Intelligent Transportation Systems",
+      "Advanced Planning algorithms for ICVs"
+    ]
   }
 ]
