@@ -1,0 +1,368 @@
+[
+  {
+    "doi": "10.26599/JICV.2026.9210084",
+    "title": "Multisource human-in-the-loop digital twin testbed for connected and autonomous vehicles in mixed traffic flow",
+    "authors": [
+      "Jianghong Dong",
+      "Chunying Yang",
+      "Mengchi Cai",
+      "Chaoyi Chen",
+      "Qing Xu",
+      "Jianqiang Wang",
+      "Jiawei Wang",
+      "Keqiang Li"
+    ],
+    "keywords": [
+      "digital twin",
+      "connected and autonomous vehicle (CAV) testing",
+      "mixed reality",
+      "mixed traffic"
+    ],
+    "abstract": "In emerging mixed traffic environments, connected and autonomous vehicles (CAVs) must interact with surrounding human-driven vehicles (HDVs). This study introduces multisource human-in-the-loop mixed cloud control testbed (MSH-MCCT), a novel CAV testbed that captures complex interactions between various CAVs and HDVs. Utilizing the mixed digital twin concept, which combines mixed reality with digital twins, MSH-MCCT integrates physical, virtual, and mixed platforms, along with multisource control inputs. Bridged by the mixed platform, MSH-MCCT allows human drivers and CAV algorithms to operate both physical and virtual vehicles within multiple fields of view. In particular, this testbed facilitates the coexistence and real-time interaction of physical and virtual CAVs and HDVs, significantly enhancing the experimental flexibility and scalability. Experiments on vehicle platooning in mixed traffic showcase the potential of MSH-MCCT to conduct CAV testing with multisource real human drivers in the loop through driving simulators of diverse fidelity.",
+    "volume": "9",
+    "issue": "2",
+    "firstpage": "9210084",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210084",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210084.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/6/30",
+    "online_date": "2026/6/30"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210083",
+    "title": "Prior-knowledge-guided model-based reinforcement learning for integrated longitudinal-lateral control of vehicular platoons",
+    "authors": [
+      "Xia Wu",
+      "Haigen Min",
+      "Zihao Mao",
+      "Yanbing Yan",
+      "Yang Liu",
+      "Guoyuan Wu"
+    ],
+    "keywords": [
+      "deep reinforcement learning",
+      "model-based reinforcement learning (MBRL)",
+      "prior knowledge",
+      "vehicle platoon"
+    ],
+    "abstract": "To address the complexity of longitudinal-lateral vehicle dynamics in platoon control and the challenge of mitigating traffic oscillations, a novel model-based reinforcement learning (MBRL) method with planning capability is proposed for longitudinal-lateral control of vehicle platoons. Specifically, the integration of the environment model and policy model, combined with a sampling-based planning approach, enables planning-based control during decision-making, which significantly improves the stability and safety of vehicle platoon control. In the two-dimensional scenario, a unified state space and joint action space are designed to achieve longitudinal-lateral control, along with a multidimensional reward function that integrates both control objectives. To address the low exploration efficiency and the high proportion of ineffective exploration during the early stage of training, a prior-knowledge-guided exploration strategy is introduced. This strategy improves learning efficiency and accelerates convergence by incorporating guided actions and constraints. The training results indicate that the incorporation of prior knowledge significantly enhances training efficiency. In evaluations under speed-limit scenarios and real-data scenarios, the proposed method demonstrates superior performance in longitudinal-lateral control, platoon stability, safety, and adaptability, while maintaining high computational efficiency.",
+    "volume": "9",
+    "issue": "2",
+    "firstpage": "9210083",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210083",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210083.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/6/30",
+    "online_date": "2026/6/30"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210082",
+    "title": "Ego vehicle trajectory prediction based on driver-vehicle coupling characteristics in diverse urban scenarios",
+    "authors": [
+      "Guoying Chen",
+      "Zheng Gao",
+      "Tianjun Sun",
+      "Xinyu Wang",
+      "Min Hua",
+      "Zhenhai Gao"
+    ],
+    "keywords": [
+      "trajectory prediction",
+      "human‒machine co-driving vehicle",
+      "driver-vehicle coupling system",
+      "diverse urban scenarios"
+    ],
+    "abstract": "For human‒machine co-driving vehicles, the dynamic complexity of urban scenarios and the uncertainty of driving behavior impose stringent demands on the accuracy and generalization capability of ego vehicle trajectory prediction. Current research predominantly relies on multivehicle interaction information or single-scenario settings, overlooking the inherent dynamic correlation between driver and vehicle. This results in prediction models struggle to adapt to complex urban environments. To address this, this study proposes a trajectory prediction framework based on driver-vehicle coupling feature encoding, enabling precise capture of vehicle trajectory evolution patterns under driver manipulation across diverse urban scenarios. The framework employs bidirectional long short-term memories (LSTMs) to perform temporal encoding on historical driver-vehicle coupling features and future road geometric features. Combined with an attention mechanism, it generates context vectors integrating temporal features and manipulation details, ultimately using LSTMs to recursively produce multistep prediction results. Validation using diverse urban scenarios data from a dynamic driving simulatordemonstrates that our prediction framework achieves precise trajectory prediction in typical scenarios such as lane changing, turning, and roundabout navigation, while exhibiting robust stability and generalization capabilities.",
+    "volume": "9",
+    "issue": "2",
+    "firstpage": "9210082",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210082",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210082.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/6/30",
+    "online_date": "2026/6/30"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210081",
+    "title": "Speed control with curve braking simulation of autonomous vehicles based on a vehicle-tire-ice coupling mechanism",
+    "authors": [
+      "Jianqiang Wang",
+      "Wei Zhang",
+      "Haigen Min",
+      "Jinquan Hou",
+      "Wenlong Zhao",
+      "Jinhao Liang"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "ice-snow road",
+      "speed control",
+      "vehicle-ice-road coupling mechanism",
+      "CarSim-Simulink joint simulation"
+    ],
+    "abstract": "Promoting autonomous vehicles (AVs) requires ensuring that vehicles can safely and smoothly pass through various ice-covered complex road conditions. Theoretical modeling and simulation tests on the curve braking control of AVs based on the vehicle-ice-road coupling mechanism are conducted. This study presents an ice-snow two-degree-of-freedom model (I-TDOFM) and a braking control algorithm designed to address the low adhesion coefficient of ice-snow roads. Three examples of ice and snow turning road conditions are simulated on the CarSim-Simulink joint simulation platform, and the research results reveal the variation patterns of the yaw rate (YR) and sideslip angle (SA) during the turning process of AV. The simulation shows that under various steering conditions, speed significantly impacts the AV’s driving performance on icy and snowy roads; AVs require a larger SA to complete steering maneuvers at low speeds, and the YR increases with increasing driving speed. The proposed I-TDOFM and braking control algorithm can constrain AV to travel along the target path and maintain good steering stability on ice-snow roads. This study provides theoretical and simulation experimental references for the optimization control of AVs on ice/snow roads in the future.",
+    "volume": "9",
+    "issue": "2",
+    "firstpage": "9210081",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210081",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210081.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/6/30",
+    "online_date": "2026/6/30"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210080",
+    "title": "World model-based long-tail and scenario-specific generation for autonomous driving",
+    "authors": [
+      "Cong Zhang",
+      "Bangyang Wei",
+      "Yang Liu",
+      "Samuel Labi"
+    ],
+    "keywords": [
+      "autonomous driving (AD)",
+      "world models",
+      "safety evaluation",
+      "long-tail scenario generation",
+      "closed-loop inference"
+    ],
+    "abstract": "Safety is the most critical problem in autonomous driving (AD). Crashes often occur in long-tail scenarios, which are neither frequent nor representative of normal driving conditions. Many severe failures are not caused by a single error but by the accumulation of coupled behaviors and/or environmental factors over time. These long-tail scenarios are difficult to evaluate using traditional open-loop safety analysis methods. To address the aforementioned challenges, the current study discussed how world models enabled long-tail scenario generation. By using closed-loop inference, world models captured how an agent’s own decisions influenced the subsequent states and interactions. In addition, world models contributed to scenario-specific generation by enabling controllable conditioning and targeted intervention on agent behaviors and environmental factors. In future studies, how to avoid unrealistic hallucinations, maintain system-level evaluation, and address errors arising from long-term interactions and multistep accumulations remain the key problems we are facing in the safety evaluation for AD.",
+    "volume": "9",
+    "issue": "2",
+    "firstpage": "9210080",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210080",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210080.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/6/30",
+    "online_date": "2026/6/30"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210079",
+    "title": "Digital twin for urban car traffic emission: A case study in Kista, Stockholm",
+    "authors": [
+      "Jonas Jostmann",
+      "Songhua Hu",
+      "Anton Gustafsson",
+      "Paolo Santi",
+      "Carlo Ratti",
+      "Zhenliang Ma"
+    ],
+    "keywords": [
+      "traffic emission",
+      "digital twin (DT)",
+      "computer vision",
+      "simulation",
+      "intelligent transportation system"
+    ],
+    "abstract": "The commitment to decarbonization is motivating urban planners to adopt emerging techniques that advance sustainability. Road traffic emissions remain a major source of greenhouse gases and pollutants, requiring precise, near-real-time monitoring for effective mitigation policies. This study introduces the design and demonstration of a digital twin (DT) platform for road traffic emission nowcasting and forecasting. The focus is on establishing a streamlined technical architecture and showcasing how the system can utilize multisource data from the Internet of Things (IoT) sensors and simulation to provide a high spatiotemporal resolution view of emissions. As a proof of concept, the platform leverages traffic camera data as IoT input, highlighting its potential for simultaneous emission and origin destination matrix estimation (ODME). A case study in Kista, Stockholm, illustrates the platform’s capabilities through a 3-dimensional (3D) interactive visualization in Unity. This demonstration serves as a first step toward a fully validated emission monitoring system, providing a scalable and modular framework that can be adapted for related applications, such as congestion analysis and noise monitoring.",
+    "volume": "9",
+    "issue": "2",
+    "firstpage": "9210079",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210079",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210079.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/6/30",
+    "online_date": "2026/6/30"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210078",
+    "title": "Examining driving behaviors and trust in an in-vehicle warning system under uncertainty: A roundabout study",
+    "authors": [
+      "Cong Zhang",
+      "Chi Tian",
+      "Tianfang Han",
+      "Yunfeng Chen",
+      "Jiansong Zhang",
+      "Yiheng Feng"
+    ],
+    "keywords": [
+      "advanced driver assistance systems (ADASs)",
+      "warning uncertainty",
+      "trajectory prediction",
+      "driving behavior analysis",
+      "trust prediction",
+      "driving simulator"
+    ],
+    "abstract": "Advanced driver assistance systems (ADASs) can greatly enhance road safety by providing real-time warnings to drivers in imminent crash situations. However, the provided warning time may deviate from its designed time. There is limited research on how warning uncertainties influence drivers’ behavior, safety performance, and trust. This study conducted a driving simulator study to examine how uncertainties in warnings impact driving behaviors and trust using a roundabout driving scenario. Two warning error distributions were constructed to represent low and high warning uncertainty levels. Thirty-six participants were recruited and randomly divided into two groups under the two uncertainty levels in a driving simulator experiment. The between-group analysis shows that the lower warning uncertainty level group results in higher trust and that trust increases (or decreases) over time under low (or high) uncertainty levels. The within-group analysis shows that higher warning errors downgrade drivers’ trust and safety performance when the errors are high. Finally, a personalized trust prediction model was developed using demographic and vehicle movement data, and the XGBoost model achieved the best performance with 86.42% accuracy.",
+    "volume": "9",
+    "issue": "1",
+    "firstpage": "9210078",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210078",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210078.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/3/31",
+    "online_date": "2026/3/31"
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210077",
+    "title": "Physics-informed machine learning for autonomous driving: From perception to control",
+    "authors": [
+      "Yubing Yang",
+      "Meng Li",
+      "Yuhao Wang"
+    ],
+    "keywords": [],
+    "abstract": "",
+    "volume": "9",
+    "issue": "1",
+    "firstpage": "9210077",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210077",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210077.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/3/31",
+    "online_date": "2026/3/31"
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210076",
+    "title": "Rise of artificial intelligence in the Chinese automotive industry",
+    "authors": [
+      "Marc Selgas-Cors"
+    ],
+    "keywords": [
+      "artificial intelligence (AI)",
+      "automotive industry",
+      "autonomous driving",
+      "electric vehicles",
+      "innovation"
+    ],
+    "abstract": "The integration of artificial intelligence (AI) in the Chinese automotive industry has led to unprecedented growth and innovation, particularly in electric vehicles and autonomous driving technologies. This study examines the impact of AI on China’s automotive sector, analyzing key players, government policies, and technological advancements. Through a comprehensive review of the academic literature and industry reports, we explore how Chinese manufacturers are leveraging AI to enhance vehicle performance, safety, and user experience. The research reveals that China’s supportive regulatory environment and significant investments in AI have positioned it as a global leader in automotive AI applications. However, challenges remain, including data privacy concerns and the need for international standardization. The study concludes that China’s AI-driven automotive revolution is reshaping the global industry, necessitating accelerated AI adoption by Western manufacturers and increased international collaboration.",
+    "volume": "9",
+    "issue": "1",
+    "firstpage": "9210076",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210076",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210076.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/3/31",
+    "online_date": "2026/3/31"
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210075",
+    "title": "Enhancing AVM-based parking-slot detection with synthetic data",
+    "authors": [
+      "Song Zhang",
+      "Yang Liu",
+      "Kun Gao"
+    ],
+    "keywords": [
+      "autonomous driving",
+      "synthetic data",
+      "object detection",
+      "around-view monitor (AVM)"
+    ],
+    "abstract": "Parking-slot detection is pivotal for autonomous driving, facilitating automated parking and enhancing vehicle safety. However, the diversity of parking slot shapes and the complexity of surrounding environments incur significant costs in data collection and annotation. To address this challenge, we propose a novel data synthesis framework specifically tailored for around-view monitor (AVM) images. First, an inpainting-based generative algorithm eliminates foreground elements from real parking slot images to produce clean backgrounds. Subsequently, new foreground elements exhibiting diverse shapes, colors, and textures are superimposed onto these backgrounds. Furthermore, rather than relying on domain selection, we introduce a data selection strategy based on active learning that operates directly on the generated datasets. The controllable attributes of synthetic data facilitate the effective evaluation and optimization of the selection strategy across various scenarios. Experimental results on the panoramic surround view (PSV) dataset demonstrate that models trained exclusively with synthetic data achieve 1.32% higher precision than those trained only on real images. Moreover, integrating 40% real images with synthetic data increases precision by up to 1.74% and recall rates by up to 1.48%, highlighting the effectiveness and practical utility of our proposed approach.",
+    "volume": "9",
+    "issue": "1",
+    "firstpage": "9210075",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210075",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210075.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/3/31",
+    "online_date": "2026/3/31"
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210074",
+    "title": "3D LiDAR and image data-level fusion for traffic vehicle detection",
+    "authors": [
+      "Xinpeng Yao",
+      "Ruini Zhang",
+      "Yunchao Li",
+      "Wen Rong",
+      "Zijian Wang",
+      "Han Zhang"
+    ],
+    "keywords": [
+      "vehicle detection",
+      "three-dimensional light detection and ranging (3D LiDAR)",
+      "image fusion",
+      "point-based region-based convolutional neural network (PointRCNN)",
+      "K-dimensional (KD) tree"
+    ],
+    "abstract": "Vehicle detection is a crucial part of perception technologies for unmanned vehicles, which provides perceptive guarantees for route plans and vehicle control. Current multimodal fusion approaches for image and light detection and ranging (LiDAR) data primarily include feature-level fusion, object-level fusion, and data-level fusion strategies. However, feature-level and object-level fusion methods fail to fundamentally address the core challenges of low-quality sparse point cloud data with insufficient information and high noise levels, resulting in low confidence in fused features or detection results. Research on data-level fusion methods remains limited. Aiming at the ineffective representation of distant vehicles by sparse LiDAR clouds, this study proposes a vehicle detection method based on the data-level fusion of image and LiDAR data. First, this method estimates the depth of image pixels to generate the pseudo point clouds. Then, the K-dimensional (KD) tree is employed to reduce the noise and eliminate the outlier of pseudo points to fuse with LiDAR data. Finally, the fused point clouds are fed to the point-based region-based convolutional neural network (PointRCNN) to achieve vehicle detection. The advantage of the proposed method is that it utilizes pseudo point clouds to compensate for sparse LiDAR data, which contributes to improving the detection accuracy of distant vehicles. This study utilizes the Karlsruhe Institute of Technology and Toyota Technological Institute (KITTI) dataset to conduct comparative experiments and ablation studies. The experimental results reveal that the proposed method improves 7.8% and 4.13% in the aspects of average precision for three-dimensional objects (AP3D) and average precision for bird’s eye view (APBEV) with comparison methods, respectively. Meanwhile, in terms of distant vehicle detection, the proposed method raises 9.13% and 9.58% in the aspects of AP3D and APBEV respectively by comparison with frustum-based PointNet (F-PointNet).",
+    "volume": "9",
+    "issue": "1",
+    "firstpage": "9210074",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210074",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210074.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/3/31",
+    "online_date": "2026/3/31"
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210073",
+    "title": "Humanoid cognition-based approach: Lane-changing decision making and dynamic trajectory planning for autonomous driving",
+    "authors": [
+      "Pan Wu",
+      "Qiqian Zeng",
+      "Xiangying Yao",
+      "Liyou Li",
+      "Wenjing Zhou",
+      "Kun Gao",
+      "Sheng Zhao",
+      "Lingshu Zhong"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "lane-changing decision",
+      "dynamic trajectory planning",
+      "human-like decision",
+      "driving behavior"
+    ],
+    "abstract": "Autonomous lane-changing decision making and planning represent a fundamental aspect of advanced driving technologies, playing a pivotal role in improving operational safety, enhancing passenger comfort, and optimizing traffic flow. Current research predominantly emphasizes environmental perception and path planning, yet systematically modeling human behavioral patterns during lane changes remains underexplored, leading to inadequate anthropomorphic decision-making capabilities. Moreover, the conventional fragmented approach to implementing decision-making, trajectory planning, and interaction signaling modules results in insufficient coordination and feedback mechanisms, ultimately compromising dynamic adaptability in real-world driving scenarios. To solve these problems, this study systematically investigates driver behavior patterns through naturalistic driving data analysis, establishes a taxonomy of lane-changing scenarios, and develops a human-like decision architecture incorporating cognitive mechanisms. The model consists of a multilayered decision framework encompassing lane-changing motivation recognition, lane selection, feasibility evaluation, and risk assessment. Furthermore, an information feedback mechanism is established between the decision-making and trajectory planning modules, enabling dynamically coupled and closed-loop control. Simulation experiments conducted on the Prescan/Simulink platform confirm that the proposed method significantly enhances the naturalness and safety of lane-changing behavior in complex traffic environments. This study provides both theoretical support and technical guidance for the development of intelligent lane-changing systems that emulate human cognitive characteristics.",
+    "volume": "9",
+    "issue": "1",
+    "firstpage": "9210073",
+    "lastpage": "",
+    "year": 2026,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210073",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210073.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2026/3/31",
+    "online_date": "2026/3/31"
+  }
+]
