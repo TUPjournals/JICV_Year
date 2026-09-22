@@ -80,8 +80,8 @@ body {
   align-items: center;
 }
 .search-wrap {
-  flex: 1;
-  min-width: 200px;
+  width: 260px;
+  flex: none;
   position: relative;
 }
 .search-wrap .icon {
@@ -374,7 +374,7 @@ mark {
 @media (max-width: 768px) {
   .header-inner { flex-direction: column; align-items: flex-start; }
   .search-row { flex-direction: column; }
-  .search-wrap { width: 100%; }
+  .search-wrap { width: 100%; flex: none; }
   .filter-select { width: 100%; }
   .back-top { width: 42px; height: 42px; bottom: 20px; right: 20px; }
 }
