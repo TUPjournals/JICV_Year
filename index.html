@@ -561,7 +561,8 @@ function render() {
   }
 
   $list.innerHTML = filteredArticles.map((a,i) => {
-    const formattedAuthors = (a.authors||[]).map(auth => {
+    const authors = Array.isArray(a.authors) ? a.authors : [];
+    const formattedAuthors = authors.map(auth => {
       const name = (auth || '').trim();
       return '<span style="display:inline-block;white-space:nowrap">' + esc(name) + '</span>';
     }).join(', ');
