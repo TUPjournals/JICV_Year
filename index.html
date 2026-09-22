@@ -709,7 +709,7 @@ function downloadBibTeX(btn) {
   bib.push('journal = {Journal of Intelligent and Connected Vehicles},');
   if (a.volume) bib.push('volume = {' + a.volume + '},');
   if (a.issue) bib.push('number = {' + a.issue + '},');
-  if (a.firstpage) bib.push('pages = {' + a.firstpage + '},');
+  if (a.firstpage) bib.push('pages = {' + a.firstpage + (a.lastpage && a.lastpage !== a.firstpage ? '-' + a.lastpage : '') + '},');
   if (a.keywords && a.keywords.length) bib.push('keywords = {' + a.keywords.join(', ') + '},');
   if (a.url) bib.push('url = {' + a.url + '},');
   if (a.doi) bib.push('doi = {' + a.doi + '},');
