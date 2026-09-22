@@ -738,11 +738,10 @@ function downloadRIS(btn) {
   if (a.year) ris.push('PY  - ' + a.year);
   ris.push('TI  - ' + (a.title||'').replace(/<[^>]+>/g, ''));
   ris.push('JO  - Journal of Intelligent and Connected Vehicles');
-  ris.push('SN  - 2399-9802');
-  if (a.volume) ris.push('VL  - ' + a.volume);
-  if (a.issue) ris.push('IS  - ' + a.issue);
   if (a.firstpage) ris.push('SP  - ' + a.firstpage);
   if (a.lastpage && a.lastpage !== a.firstpage) ris.push('EP  - ' + a.lastpage);
+  if (a.volume) ris.push('VL  - ' + a.volume);
+  if (a.issue) ris.push('IS  - ' + a.issue);
   if (a.abstract) ris.push('AB  - ' + a.abstract.replace(/<[^>]+>/g, '').replace(/\s+/g,' ').trim());
   if (a.doi) ris.push('UR  - https://doi.org/' + a.doi);
   if (a.doi) ris.push('DO  - ' + a.doi);
