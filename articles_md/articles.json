@@ -30,7 +30,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
-    "online_date": "2026/6/30"
+    "online_date": "2026/6/30",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210083",
@@ -61,7 +62,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
-    "online_date": "2026/6/30"
+    "online_date": "2026/6/30",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210082",
@@ -92,7 +94,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
-    "online_date": "2026/6/30"
+    "online_date": "2026/6/30",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210081",
@@ -124,7 +127,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
-    "online_date": "2026/6/30"
+    "online_date": "2026/6/30",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210080",
@@ -154,7 +158,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
-    "online_date": "2026/6/30"
+    "online_date": "2026/6/30",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210079",
@@ -186,7 +191,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/6/30",
-    "online_date": "2026/6/30"
+    "online_date": "2026/6/30",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210078",
@@ -219,7 +225,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
-    "online_date": "2026/3/31"
+    "online_date": "2026/3/31",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2026.9210077",
@@ -242,7 +249,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
-    "online_date": "2026/3/31"
+    "online_date": "2026/3/31",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2025.9210076",
@@ -269,7 +277,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
-    "online_date": "2026/3/31"
+    "online_date": "2026/3/31",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2025.9210075",
@@ -297,7 +306,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
-    "online_date": "2026/3/31"
+    "online_date": "2026/3/31",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2025.9210074",
@@ -329,7 +339,8 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
-    "online_date": "2026/3/31"
+    "online_date": "2026/3/31",
+    "internal_id": ""
   },
   {
     "doi": "10.26599/JICV.2025.9210073",
@@ -363,6 +374,1529 @@
     "publisher": "清华大学出版社",
     "issn": "2399-9802",
     "publication_date": "2026/3/31",
-    "online_date": "2026/3/31"
+    "online_date": "2026/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210072",
+    "title": "An efficient bidirectional search hybrid A* method for parking path planning in adjacent vehicle deviation scenarios to enhance passenger comfort",
+    "authors": [
+      "Wenrui Jin",
+      "Xiaoxiao Lv",
+      "Xiangping Qiu",
+      "Fan Mo",
+      "Min Fang",
+      "Jiaxue Li"
+    ],
+    "keywords": [
+      "automatic parking",
+      "path planning",
+      "passenger comfort",
+      "hybrid A*",
+      "final parking state optimization"
+    ],
+    "abstract": "The coexistence of manual and autonomous driving leads to a nonstandard final parking state (FPS) of adjacent vehicles. In these instances, maintaining a standard FPS for the target vehicle will engender a predicament of challenging door access. To increase the comfort of passenger boarding and alighting (CPBA), this study proposes a bidirectional search hybrid A* (BHA*) method for parking path planning. First, a characterization variable for the CPBA is constructed on the basis of the allowable and required opening angles of vehicle doors under the constraint of adjacent vehicles. An optimization model for FPS is subsequently established with the comprehensive objective of the CPBA for both the target and adjacent vehicles, along with a safe distance. The genetic algorithm is then utilized to obtain the optimal FPS. Furthermore, the Voronoi potential and a bidirectional search strategy are employed to improve the hybrid A* algorithm, aiming to achieve the optimal FPS and enhance the efficiency of parking path planning. Finally, simulation experiments are conducted on the parameters of real vehicles and parking scenarios to verify the effectiveness and adaptability of the proposed method. A comparison with the hybrid A* algorithm further confirms the superiority of the proposed method in terms of search efficiency.",
+    "volume": "8",
+    "issue": "4",
+    "firstpage": "9210072",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210072",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210072.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/11/30",
+    "online_date": "2025/12/25",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210071",
+    "title": "Integrated operation and charging controls for ride-sharing electric autonomous mobility-on-demand systems",
+    "authors": [
+      "Wei Zhou",
+      "Haoye Chen",
+      "Pei Huang",
+      "Zhenliang Ma"
+    ],
+    "keywords": [
+      "model predictive control",
+      "autonomous mobility-on-demand",
+      "ride-sharing",
+      "smart charging",
+      "integer linear program optimization"
+    ],
+    "abstract": "This study proposes an integer linear program model for ride-sharing, electric, autonomous mobility on demand (RE-AMoD) system operations and develops a model predictive control (MPC) algorithm to optimize the decisions of ride matching, vehicle routing, rebalancing, and charging. The system ensures that electric autonomous vehicles provide transportation services for up to two customers to share a ride and that they can be charged automatically during the operating period. The RE-AMoD problem is formulated as a network flow optimization problem considering ride-sharing and charging control. The objective is to minimize the customers’ waiting time while minimizing the system’s energy consumption. An iterative MPC is developed to compute the optimal control policy for real-time control. The case study uses real-world data from San Francisco to validate the model performance by comparing benchmark models in an RE-AMoD simulation platform and investigating the impact of ride-sharing and smart charging strategies on system performance by comparing models with no ride-sharing and heuristic charging strategies. The results show that the smart charging policy is critical for realizing ride-sharing's full advantages in RE-AMoD systems. Allowing the sharing of trips significantly improves system performance in terms of reducing fleet sizes and energy consumption while improving the customer level of service.",
+    "volume": "8",
+    "issue": "4",
+    "firstpage": "9210071",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210071",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210071.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/11/30",
+    "online_date": "2025/12/25",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210070",
+    "title": "Sky-Drive: A distributed multiagent simulation platform for human−AI collaborative and socially aware future transportation",
+    "authors": [
+      "Zilin Huang",
+      "Zihao Sheng",
+      "Zhengyang Wan",
+      "Yansong Qu",
+      "Yuhao Luo",
+      "Boyue Wang",
+      "Pei Li",
+      "Yen-Jung Chen",
+      "Jiancong Chen",
+      "Keke Long",
+      "Jiayi Meng",
+      "Yue Leng",
+      "Sikai Chen"
+    ],
+    "keywords": [
+      "driving simulator",
+      "autonomous vehicles",
+      "human−artificial intelligence (AI) collaboration",
+      "multiagent simulation",
+      "digital twin"
+    ],
+    "abstract": "Recent advances in autonomous system simulation platforms have significantly enhanced the safe and scalable testing of driving policies. Although existing simulators have greatly accelerated development by providing controlled testing environments, they face limitations in addressing the evolving needs of future transportation research, particularly in enabling effective human−artificial intelligence (human−AI) collaboration and modeling socially aware driving agents. This study introduces Sky-Drive, a novel distributed multiagent simulation platform that addresses these limitations through four key innovations: (1) a distributed architecture for synchronized simulation across multiple terminals; (2) a multimodal human-in-the-loop framework that integrates diverse sensors to collect rich behavioral data; (3) a human−AI collaboration mechanism that supports continuous and adaptive knowledge exchange; and (4) a digital twin framework for constructing high-fidelity virtual replicas of real-world transportation environments. Sky-Drive supports diverse applications, such as autonomous vehicle-human road user interaction modeling, human-in-the-loop training, socially aware reinforcement learning, personalized driving development, and customized scenario generation. Future extensions will incorporate foundation models for context-aware decision support and hardware-in-the-loop testing for real-world validation. By bridging scenario generation, data collection, algorithm training, and hardware integration, Sky-Drive has the potential to become a foundational platform for the next generation of human-centered and socially aware autonomous transportation system research.",
+    "volume": "8",
+    "issue": "4",
+    "firstpage": "9210070",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210070",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210070.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/11/30",
+    "online_date": "2025/12/25",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210069",
+    "title": "Autonomous driving on mountain roads via an adaptive deep reinforcement learning approach",
+    "authors": [
+      "Yu Yan",
+      "Chengxi Zhang",
+      "Jin Wu",
+      "Chen Sun",
+      "Qingwen Meng",
+      "Chaoyi Chen",
+      "Jianqiang Wang",
+      "Guangwei Wang"
+    ],
+    "keywords": [
+      "deep reinforcement learning (DRL)",
+      "autonomous driving",
+      "mountainous environment",
+      "trajectory optimization"
+    ],
+    "abstract": "Autonomous driving on mountainous roads is challenging since numerous curves and varying road slopes make vehicle control difficult. To address this problem, we propose triple adaptive delayed deep deterministic (TAD3) policy gradient, a novel end-to-end adaptive deep reinforcement learning (DRL) system based on the twin delayed deep deterministic policy gradient (TD3) algorithm. This approach combines recurrent neural networks (RNNs) with the critic network to leverage the vehicle’s historical state information and incorporates a triple-critics structure to adapt to diverse mountainous road conditions with various curvatures and gradients. Compared with previous methods, the proposed TAD3 approach achieves better vehicle performance on mountain roads and faster training speeds without extensive knowledge of vehicle dynamics. The experimental results using the TORCS simulator demonstrate that the proposed TAD3 achieves a 43%–64% smaller distance error and a 19%–74% smaller yaw angle error than five state-of-the-art baselines do in the lane-keeping task while simultaneously achieving lower laptimes in the time-minimum task and demonstrating superior generalization ability on three mountainous tracks with different designs in terms of curvature and gradient.",
+    "volume": "8",
+    "issue": "4",
+    "firstpage": "9210069",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210069",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210069.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/11/30",
+    "online_date": "2025/12/25",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2026.9210068",
+    "title": "Road users’ behavior and perceptions of autonomous vehicles with external human–machine interfaces: A review of developments in 2017–2024",
+    "authors": [
+      "Tianpei Tang",
+      "Xiaofan Xue",
+      "Shengnan Zhao",
+      "Bang Luo",
+      "Hua Wang"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "external human–machine interfaces (eHMIs)",
+      "crossing behavior",
+      "road users’ perceptions",
+      "review"
+    ],
+    "abstract": "The successful deployment of autonomous vehicles (AVs) relies heavily on their ability to interact safely and effectively with other road users. External human–machine interfaces (eHMIs) have emerged as critical components in facilitating these interactions. Rigorous evaluation and testing of eHMIs are essential for realizing their intended safety and communication benefits. This study provides a comprehensive review of current eHMI research, focusing on their impact on road users’ behavior and perceptions, as well as the methods used for evaluation. Key behavioral factors—such as eHMI modality, information type, location, vehicle kinematics, traffic environment, and user characteristics—are systematically reviewed and summarized. The influence of eHMIs on user perceptions is also explored through indicators such as perceived safety, comprehensibility, trust, cognitive load, and user experience. Despite notable advancements, several critical research gaps remain underexplored. Most studies focus on one-to-one interactions, neglecting the complexities of mixed-traffic environments involving AVs, conventional human-driven vehicles, pedestrians, and cyclists. Current evaluation methods largely rely on virtual reality and Wizard-of-Oz experiments, which may fail to fully capture real-world dynamics. Additionally, subjective questionnaires, which are often used in these studies, do not guarantee high reproducibility of findings. Moreover, insufficient attention has been given to the synchronization of eHMI signals with vehicle kinematics. Furthermore, the absence of standardized evaluation frameworks limits cross-study comparability and the development of universally applicable eHMI solutions. To address these challenges, future research should prioritize the integration of naturalistic traffic scenarios, the adoption of objective and reproducible evaluation methods, the exploration of multimodal eHMI designs, and the development of standardized assessment protocols. These efforts are crucial for improving AV communication with diverse road users and ensuring safety in increasingly complex traffic ecosystems.",
+    "volume": "8",
+    "issue": "4",
+    "firstpage": "9210068",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2026.9210068",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2026.9210068.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/11/30",
+    "online_date": "2025/12/25",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210067",
+    "title": "AdvGLOW: Covert adversarial attacks against autonomous driving perception",
+    "authors": [
+      "Xuesong Bai",
+      "Peng Dong",
+      "Jinlei Wang",
+      "Yuanhao Huang",
+      "Haiyang Yu",
+      "Yilong Ren"
+    ],
+    "keywords": [
+      "autonomous driving",
+      "perception test",
+      "adversarial attack",
+      "flow-based generation"
+    ],
+    "abstract": "Autonomous driving technology is becoming increasingly popular, transforming transportation systems worldwide. However, its perception modules are highly vulnerable to adversarial attacks, which exploit weaknesses in deep neural networks, leading to potential safety risks and compromised decision-making in autonomous systems. In this study, we propose AdvGLOW, a novel adversarial attack model tailored for covert attacks on autonomous driving perception modules in traffic scenarios. Leveraging an information exchange network within a flow-based model, AdvGLOW introduces reversible data transformations to achieve high attack success with minimal perturbation visibility. By optimizing a combined global-local loss, our model preserves structural details while embedding adversarial features, resulting in robust yet visually imperceptible adversarial samples. We conduct extensive experiments on traffic-related datasets, demonstrating that the generated adversarial samples are challenging for both humans and algorithms to detect. Additionally, this method exhibits strong attack robustness and transferability.",
+    "volume": "8",
+    "issue": "4",
+    "firstpage": "9210067",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210067",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210067.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/11/30",
+    "online_date": "2025/12/25",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210066",
+    "title": "Safety-critical scenario test for intelligent vehicles via hybrid participation of natural and adversarial agents",
+    "authors": [
+      "Yong Wang",
+      "Daifeng Zhang",
+      "Yanqiang Li",
+      "Liguo Shuai",
+      "Zhicheng Tang",
+      "Yuxiang Hou"
+    ],
+    "keywords": [
+      "autonomous vehicle",
+      "safety-critical scenario",
+      "natural and adversarial agents",
+      "multiagent reinforcement learning (MARL)",
+      "potential fields"
+    ],
+    "abstract": "The intensity levels of autonomous vehicles should be thoroughly evaluated before deployment, while vehicle tests are difficult for the sake of heavy experimental resources and large numbers of cases, especially tests that include safety-critical scenarios. In this study, a new scenario generation method is proposed to accelerate the test, which is based on a multiagent reinforcement learning (MARL) framework incorporating the driving potential field (DPF). This framework is used to train some background vehicles to enable high-risk and marginal scenes, where the DPF is applied to enact the rewards of the adversarial background agents. Other background vehicles that use reasonable driving policies, which serve as naturalistic agents to increase scenario diversity, are also considered. The coexistence of naturalistic and adversarial agents enriches the experiences learned by the background cars, providing more marginal and risky scenarios for accelerating the test. The experimental results demonstrate the efficiency of the generation of high-risk and marginal scenes, with comprehensive assessments via a novel field-based dynamic risk evaluation method.",
+    "volume": "8",
+    "issue": "3",
+    "firstpage": "9210066",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210066",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210066.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210065",
+    "title": "What patterns contribute to autonomous vehicle crashes? A study of Level 2 and 4 automation via association rule analysis",
+    "authors": [
+      "Hongliang Ding",
+      "Sicong Wang",
+      "Yang Cao",
+      "Xiaowen Fu",
+      "Hanlong Fu",
+      "Quan Yuan",
+      "Tiantian Chen"
+    ],
+    "keywords": [
+      "autonomous vehicle crashes",
+      "association rule mining",
+      "apriori mining model",
+      "crash type",
+      "risk factors"
+    ],
+    "abstract": "With increasing autonomous vehicle (AV) penetration, understanding the factors contributing to AV crashes is crucial for addressing ongoing road safety challenges. This study aims to reveal the effects of vehicle characteristics, road conditions, environmental factors, and precrash movements on the occurrence of head-on, rear-end, and side-impact crashes. In particular, factors associated with various types of Level 2 and Level 4 AV crashes were analyzed. Our data, obtained from the California Department of Motor Vehicles and the National Highway Traffic Safety Administration, spans from October 2014 to March 2024. Association rule mining techniques identify the significant patterns and interdependencies among the factors contributing to AV crashes. The findings demonstrate that the factors influencing crash types include weather, roadway surface, lighting, and vehicle precrash movements. For example, head-on crashes frequently occur at intersections under poor lighting conditions, whereas rear-end crashes occur more frequently on high-speed highways, particularly because of unexpected braking by the vehicle ahead. Side-impact crashes commonly result from merging maneuvers, especially under adverse weather and lighting conditions. These findings provide new insights into the causal mechanisms behind different types of AV crashes and underscore the need to strengthen traffic management, enhance AV sensing and decision-making capabilities, and implement targeted safety measures in high-risk areas.",
+    "volume": "8",
+    "issue": "3",
+    "firstpage": "9210065",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210065",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210065.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210064",
+    "title": "A diversified tour-driven deep reinforcement learning approach to routing for intelligent and connected vehicles",
+    "authors": [
+      "Dapeng Yan",
+      "Qingshu Guan",
+      "Bei Ou",
+      "Bowen Yan",
+      "Hui Cao",
+      "Badong Chen"
+    ],
+    "keywords": [
+      "vehicle routing problem (VRP)",
+      "deep reinforcement learning (DRL)",
+      "multihead attention",
+      "Kullback–Leibler divergence"
+    ],
+    "abstract": "The routing problem for intelligent and connected vehicles has garnered significant attention because of its profound theoretical implications and wide-ranging practical applications. Despite advancements, existing learning-based methods often rely on training one single policy, which inadequately explores the solution space and leads to suboptimal performance. To address this limitation, we propose a diversified tour-driven deep reinforcement learning (DT-DRL) approach for solving vehicle routing problems (VRPs) across various scales. Our approach builds on the encoder‒decoder paradigm, with the encoder utilizing a multihead attention mechanism to derive informative node embeddings and a gate aggregation block to enhance state representation. During decoding, dynamic-aware context embedding is designed to capture real-time state transitions and graph variations, thereby offering comprehensive and timely information for decision-making. To promote solution diversity and expand the search space, multiple decoders with independent parameters are employed, coupled with a Kullback–Leibler divergence-based cross-entropy loss that regularizes the generation of diversified candidate tours. We validate the proposed DT-DRL through extensive experimentation on two representative routing problems for intelligent connected vehicles, namely, the traveling salesman problem (TSP) and the capacitated VRP (CVRP). The results demonstrate that DT-DRL consistently outperforms many heuristic and DRL-based methods, achieving up to a 7.54% improvement in the optimality gap, thereby establishing its effectiveness and robustness in tackling complex routing challenges for intelligent and connected vehicles.",
+    "volume": "8",
+    "issue": "3",
+    "firstpage": "9210064",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210064",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210064.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210062",
+    "title": "Young urban dwellers’ acceptance of autonomous vehicle-induced landscape changes: An eye-tracking study",
+    "authors": [
+      "Miklós Lukovics",
+      "Barbara Nagy"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "urban landscape",
+      "urban environment",
+      "eye-tracking"
+    ],
+    "abstract": "Using an autonomous vehicle fleet instead of owning a car might significantly reduce the number of vehicles in cities, which may have important consequences related to land use and the urban landscape. More information is available about these possibilities; at the same time, much less is known about whether urban residents would accept them. Moreover, the majority of research addressing the preferences of urban residents presents findings on the entire population rather than on its specific sections; thus, scarce information is available about the urban landscape preferences of young people, who are highly exposed to autonomous vehicle-driven future mobility. This study aims to determine how much young city dwellers accept potential specific urban landscape changes triggered by autonomous vehicles. The research applied real-time eye-tracking tests and supplementary questionnaires to a sample of 102 participants. The tests were carried out under laboratory conditions, during which the subjects looked at before/after urban landscape pairs of images that depicted the potential urban landscape and land use changes triggered by the mass adoption of autonomous vehicles. The examination of the total fixation duration, the average fixation duration and the average number of fixations indicates that the “after” images were collectively more appealing to the subjects. An analysis of the reasons behind the eye-tracking results revealed that safety and human-centered design were identified as the most significant factors across various image pairs.",
+    "volume": "8",
+    "issue": "3",
+    "firstpage": "9210062",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210062",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210062.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210061",
+    "title": "Evaluating the sustainability of electric buses during operation via field data",
+    "authors": [
+      "Baozhen Yao",
+      "Zhihao Qi",
+      "Ziqi Liu",
+      "Minke Zhu",
+      "Shaohua Cui",
+      "Radu-Emil Precup",
+      "Raul-Cristian Roman"
+    ],
+    "keywords": [
+      "EBs",
+      "GHG emissions",
+      "life cycle analysis (LCA)",
+      "electrification of transportation"
+    ],
+    "abstract": "Environmental sustainability is a crucial issue for all human beings, and vehicle emissions significantly contribute to climate change. This has prompted many countries, including China, Norway, and Germany, to focus on electrifying transportation. This study quantifies the life cycle carbon dioxide (CO2) emissions of electric buses (EBs) in Guangzhou, China, via a life cycle analysis methodology, revealing an average life cycle emission of 1,097.07 g CO2·km−1·vehicle−1. The operation and charging stage contributes the most to the lifespan of CO2 emissions at 69.6%, driven by carbon-intensive power grid. Compared with conventional internal combustion engine buses, EBs result in significant emission reductions, but regional grid carbon intensity variations across China mean that their benefits depend on nationwide green energy adoption. By 2030, emissions are projected to decline by 15.28%, aligning with carbon peak goals. The findings emphasize that transitioning to renewable energy grids and hybrid technologies is critical for sustainable transportation.",
+    "volume": "8",
+    "issue": "3",
+    "firstpage": "9210061",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210061",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210061.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210058",
+    "title": "Automatic labeling and qualification of functional scenarios on the basis of sparse field observations",
+    "authors": [
+      "Hugues Blache",
+      "Pierre-Antoine Laharotte",
+      "Nour-Eddin El Faouzi"
+    ],
+    "keywords": [
+      "latent dirichlet allocation",
+      "safety criticality",
+      "time-to-collision",
+      "functional scenario",
+      "connected and automated vehicles (CAVs)"
+    ],
+    "abstract": "At the dawn of the deployment of connected and automated vehicles (CAVs) on our roads, assessing the safety of new systems is crucial. Given the overwhelming number of situations to test, focusing efforts on the most relevant ones for the system is essential. Qualifying scenarios with respect to their relevance is a challenging task. The scope of relevancy must be defined, and a labeling process applicable to any scenario must be developed. However, gathering information on various scenarios to label them poses a challenge because the flagrant lacks field data. In this study, we assume that relevancy is depicted by a safety criticality level on the basis of time-to-collision. We develop a labeling process for scenarios. It learns latent connections between the words generating scenarios and takes advantage of the latent structure to associate criticality levels with any scenario. Such a prediction model enables one to cope with the lack of data by ensuring the prior qualification of any scenario regardless of the quantity of field observations. This process is applied to scenarios described at a high level of abstraction, called functional scenarios. Criticality levels might be used to guide the application of the sampling strategy to select the scenarios under consideration when testing CAVs. Compared with field observations, the results of our automated process are highly correlated, with  R2 values of up to 0.835 on average.",
+    "volume": "8",
+    "issue": "3",
+    "firstpage": "9210058",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210058",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210058.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210063",
+    "title": "APM-SLAM: Visual localization for fixed routes with tightly coupled a priori map",
+    "authors": [
+      "Linsong Xue",
+      "Qi Luo",
+      "Kai Zhang"
+    ],
+    "keywords": [
+      "visual localization",
+      "state estimation",
+      "intelligent vehicle",
+      "pre-built map",
+      "visual simultaneous localization and mapping (SLAM)"
+    ],
+    "abstract": "Localization along fixed routes is the fundamental function of transportation applications, including patrol vehicles, shuttles, buses, and even passenger vehicles. To achieve accurate and reliable localization, we propose a tightly coupled A Priori Map Simultaneous Localization and Mapping (APM-SLAM) system. APM-SLAM provides a comprehensive and heterogeneous framework, encompassing both mapping and localization processes. The mapping stage leverages Global Navigation Satellite System (GNSS)-aided Structure from Motion (SfM) to establish reliable a priori maps with coarse- and fine-level components. The localization process integrates coarse-to-fine matching with Maximum A Posteriori (MAP) Probability estimation to refine pose accuracy. By incorporating deep learning-based features and point descriptors, our system maintains robustness even in scenarios with significant visual variation. Unlike traditional map-based approaches, APM-SLAM models the a priori map’s point structures as probabilistic distributions and incorporates them into the optimization process. Extensive experiments on public datasets demonstrate the superiority of our method in both mapping precision and localization accuracy, achieving decimeter-level translation precision. Ablation studies further validate the effectiveness of each component within our system. This work contributes to establishing maps and utilizing a priori information for localization simultaneously.",
+    "volume": "8",
+    "issue": "2",
+    "firstpage": "9210063",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210063",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210063.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/6/30",
+    "online_date": "2025/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210060",
+    "title": "InVDriver: Intra-instance aware vectorized query-based autonomous driving transformer",
+    "authors": [
+      "Bo Zhang",
+      "Heye Huang",
+      "Chunyang Liu",
+      "Yaqin Zhang",
+      "Zhenhua Xu"
+    ],
+    "keywords": [
+      "end-to-end autonomous driving",
+      "decision making",
+      "motion prediction",
+      "transformer",
+      "artificial intelligence"
+    ],
+    "abstract": "End-to-end autonomous driving, with its holistic optimization capabilities, has gained increasing traction in academia and industry. Vectorized representations, which preserve instance-level topological information while reducing computational overhead, have emerged as promising paradigms. However, existing vectorized query-based frameworks often overlook the inherent spatial correlations among intra-instance points, resulting in geometrically inconsistent outputs (e.g., fragmented HD map elements or oscillatory trajectories). To address these limitations, we propose intra-instance vectorized driving transformer (InVDriver), a novel vectorized query-based system that systematically models intra-instance spatial dependencies through masked self-attention layers, thereby enhancing planning accuracy and trajectory smoothness. Across all core modules, i.e., perception, prediction, and planning, InVDriver incorporates masked self-attention mechanisms that restrict attention to intra-instance point interactions, enabling coordinated refinement of structural elements while suppressing irrelevant inter-instance noise. The experimental results on the nuScenes benchmark demonstrate that InVDriver achieves state-of-the-art performance, surpassing prior methods in both accuracy and safety, while maintaining high computational efficiency.",
+    "volume": "8",
+    "issue": "2",
+    "firstpage": "9210060",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210060",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210060.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/6/30",
+    "online_date": "2025/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210059",
+    "title": "Multimodal large-language model empowering next-generation autonomous driving systems",
+    "authors": [
+      "Zhiqiang Hu",
+      "Mingxing Xu",
+      "Qixiu Cheng"
+    ],
+    "keywords": [],
+    "abstract": "",
+    "volume": "8",
+    "issue": "2",
+    "firstpage": "9210059",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210059",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210059.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/6/30",
+    "online_date": "2025/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210057",
+    "title": "Decision-making of drivers following autonomous vehicles: Developing a Bayesian network on the basis of field tests and questionnaire data",
+    "authors": [
+      "Fang Zong",
+      "Huan Wu",
+      "Meng Zeng",
+      "Won Kim",
+      "Qiaowen Bai",
+      "Yafeng Gong",
+      "Ruifeng Duan",
+      "Ying Guo"
+    ],
+    "keywords": [
+      "acceleration",
+      "autonomous vehicle (AV)",
+      "car-following decision",
+      "driving habit",
+      "gap",
+      "recognition of autonomous vehicles"
+    ],
+    "abstract": "With the development of autonomous driving technology, traffic mixed with human-driven vehicles (HDVs) and autonomous vehicles (AVs) has dominated transportation systems for a long period of time. Drivers’ car-following decision-making in mixed traffic needs to be considered for traffic simulation and management policy formulation. This study aims to explore the differences in drivers’ decision-making mechanisms when following AVs and HDVs. Data from a questionnaire survey and a field test are collected and employed to establish a Bayesian network for car-following decision-making process analysis and inference. The influences of driving habits and recognition of AVs on car-following decisions and the correlations among the four decision variables are analyzed. The four decision variables consist of the vehicle gap and acceleration in both the acceleration and deceleration phases. The results show that there are direct correlations among the four internal decision variables. Among the external variables, overspeeding and honking have distinct impacts on decisions made while following an AV. Moreover, regardless of whether they are in an acceleration or deceleration phase, most drivers tend to make gentler decisions when following AVs than when following HDVs. On the basis of the results, we propose some strategies for the traffic management of mixed traffic that are beneficial to traffic efficiency: (1) Improving drivers’ recognition of AVs; (2) embedding the external sensing devices of AVs internally to make them visually similar to HDVs; and (3) establishing dedicated lanes for AVs. The research results have important reference significance for simulating car-following behavior, designing traffic control facilities and formulating policies under mixed traffic scenarios.",
+    "volume": "8",
+    "issue": "2",
+    "firstpage": "9210057",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210057",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210057.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/6/30",
+    "online_date": "2025/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210056",
+    "title": "A trajectory planning and tracking method based on deep hierarchical reinforcement learning",
+    "authors": [
+      "Jiajie Zhang",
+      "Bao-Lin Ye",
+      "Xin Wang",
+      "Lingxi Li",
+      "Bo Song"
+    ],
+    "keywords": [
+      "deep reinforcement learning (DRL)",
+      "trust region policy optimization (TRPO)",
+      "hierarchical reinforcement learning (HRL)",
+      "model predictive control (MPC)",
+      "trajectory tracking"
+    ],
+    "abstract": "To improve the driving efficiency of unmanned vehicles in a complex urban traffic flow environment and the safety and passenger comfort of vehicles when changing lanes, we propose a hierarchical reinforcement learning (HRL)-based vehicle trajectory planning and tracking method. First, we present a hierarchical control framework for vehicle trajectory tracking that is based on deep reinforcement learning (DRL) and model predictive control (MPC). We design an upper-level decision model based on the trust region policy optimization algorithm integrated with long short-term memory to obtain more accurate strategies. Second, to improve stability and passenger comfort, we constructed a lower controller that combines the Bezier curve fitting method and an MPC controller. Finally, the proposed method was simulated via the car learning to act (CARLA) simulator, which is based on an unreal engine. Random urban traffic-flow test scenarios were used to simulate a real urban road-traffic environment. The simulation results illustrate that the proposed method can complete the vehicle trajectory planning and tracking task well. Compared with the existing RL methods, our proposed method has the lowest collision rate of 1.5% and achieves an average speed improvement of 7.04%. Moreover, our proposed method has better comfort performance and lower fuel consumption during the driving process.",
+    "volume": "8",
+    "issue": "2",
+    "firstpage": "9210056",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210056",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210056.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/6/30",
+    "online_date": "2025/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2025.9210055",
+    "title": "Enhancing driver emotion recognition through deep ensemble classification",
+    "authors": [
+      "Faizan Zaman",
+      "Zhigang Xu",
+      "Adil Hussain",
+      "Anees Ullah",
+      "Khalid Zaman"
+    ],
+    "keywords": [
+      "driver emotion recognition",
+      "face detection",
+      "convolutional neural network (CNN)",
+      "driver safety",
+      "accident prevention"
+    ],
+    "abstract": "This research addresses the challenging task of classifying drivers’ emotions to increase their awareness of their driving behaviors. It recognizes the common issue of driver emotions, which often leads to the neglect of poor driving practices. By automatically detecting and identifying these behaviors, drivers can proactively obtain valuable insights to reduce potential accidents. This study proposes a comprehensive facial recognition model for drivers that uses a unified architecture comprising a convolutional neural network (CNN), a recurrent neural network (RNN), and a multilayer perceptron (MLP) classification model. Initially, a faster region-based convolutional neural network (R-CNN) was employed for accurate and efficient facial detection of drivers in live and recorded videos. Features are extracted from three CNN models and merged via advanced techniques to create an ensemble classification model. Moreover, the improved Faster R-CNN feature learning module is replaced with a new convolutional neural network module, VGG16, which maximizes the precision and effectiveness of facial detection in our system. Significant accuracy results of 89.2%, 97.20%, 99.01%, 93.65%, and 98.61% are shown in evaluations of our suggested facial detection and facial expression recognition (DFER) datasets, including the EMOTIC, CK+, FERPLUS, AffectNet, and custom datasets. These datasets were meticulously acquired in a simulated environment, necessitating the creation of several custom datasets. This research highlights the potential of deep ensemble classification in improving driver emotion recognition, thereby contributing to enhanced road safety.",
+    "volume": "8",
+    "issue": "2",
+    "firstpage": "9210055",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2025.9210055",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2025.9210055.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/6/30",
+    "online_date": "2025/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2024.9210054",
+    "title": "Safe and efficient DRL driving policies using fuzzy logic for urban lane changing scenarios",
+    "authors": [
+      "Ling Han",
+      "Xiangyu Ma",
+      "Yiren Wang",
+      "Lei He",
+      "Yipeng Li",
+      "Lele Zhang",
+      "Qiang Yi"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "decision-making",
+      "fuzzy logic",
+      "lane change",
+      "reinforcement learning"
+    ],
+    "abstract": "Lane changing is common in driving. Thus, the possibility of traffic accidents occurring during lane changes is high given the complexity of this process. One of the primary objectives of intelligent driving is to increase a vehicle’s behavior, making it more similar to that of a real driver. This study proposes a decision-making framework based on deep reinforcement learning (DRL) in a lane-changing scenario, which seeks to find a driving strategy that simultaneously considers the expected lane-changing risks and gains. First, a fuzzy logic lane-changing controller is designed. It outputs the corresponding safety and lane-change gain weights by inputting relevant driving parameters. Second, the obtained weights are brought into the constructed reward function of DRL. The model parameters are designed and trained on the basis of lane-changing behavior. Finally, we conducted experiments in a simulator to evaluate the performance of our developed algorithm in urban scenarios. To visualize and validate the estimated driving intentions, lane-changing strategies were tested under four scenarios. The results show that the average improvement in travel efficiency in the four scenarios is 19%. In addition, the average accident rate in the four scenarios increased by only 4%. We combine fuzzy logic and DRL reward functions to personify the lane-changing behavior of intelligent driving. Compared with conservative strategies that prioritize only safety, this method can considerably improve the number of lane changes and travel efficiency for autonomous vehicles (AVs) on the premise of ensuring safety. The approach provides an effective and explainable method designed for facilitating intelligent driving lane-changing behavior.",
+    "volume": "8",
+    "issue": "1",
+    "firstpage": "9210054",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2024.9210054",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2024.9210054.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/3/31",
+    "online_date": "2025/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2024.9210053",
+    "title": "Smart prediction-planning algorithm for connected and autonomous vehicle based on social value orientation",
+    "authors": [
+      "Donglei Rong",
+      "Yuefeng Wu",
+      "Wenjun Du",
+      "Chengcheng Yang",
+      "Sheng Jin",
+      "Min Xu",
+      "Fujian Wang"
+    ],
+    "keywords": [
+      "Connected and Automated Vehicles (CAVs)",
+      "Social Value Orientation (SVO)",
+      "smart prediction planning",
+      "trajectory planning",
+      "numerical simulation"
+    ],
+    "abstract": "To improve the adaptability of Connected and Automated Vehicles (CAVs) in mixed traffic, this study proposes a prediction model training indicator that comprehensively considers drivers' Social Value Orientation (SVO) and planning goals. Active Influence Factor (AIF) is used as the goal to predict the future safety loss and consistency loss of CAVs. Second, an objective function based on SVO is constructed to understand the driver’s characteristics to evaluate the safety, comfort, efficiency, and consistency of candidate trajectories. The results showed that integrating SVO and consistency functions can help ensure that CAVs drive under a more stable risk potential energy field. The prediction planning model that considers SVO can improve the reliability of the CAV output trajectory to a certain extent. The prediction planning under the AIF has better accuracy and stability of the output trajectory; however, it still has strong adaptability and superiority under different sensitivity parameters. The minimum and maximum standard deviations of our model are 0.78 and 0.78 m, respectively, whereas the minimum and maximum standard deviations of the comparative model reach 2.07 and 4.56 m, respectively. The minimum standard deviation of the other comparative model reaches 1.35 m, and the maximum standard deviation reaches 4.45 m.",
+    "volume": "8",
+    "issue": "1",
+    "firstpage": "9210053",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2024.9210053",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2024.9210053.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/3/31",
+    "online_date": "2025/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2024.9210052",
+    "title": "Trajectory prediction of human-driven vehicles on the basis of risk field theory and interaction multiple models",
+    "authors": [
+      "Zhaojie Wang",
+      "Guangquan Lu",
+      "Jinghua Wang",
+      "Haitian Tan",
+      "Renjing Tang"
+    ],
+    "keywords": [
+      "trajectory prediction",
+      "risk field theory",
+      "unsignalized intersection",
+      "interacting multiple model (IMM)",
+      "driving behavior model"
+    ],
+    "abstract": "This study focuses on predicting the motion states and intentions of HDVs at unsignalized intersections. On the basis of a risk field-driven driving behavior model for uncontrolled intersections, multiple motion hypotheses are formulated to characterize the motion planning process of drivers in multivehicle conflict scenarios. Each motion hypothesis is modeled and expressed separately via the extended Kalman filter (EKF) model. These EKF models were combined to construct an interacting multiple model (IMM) framework. This framework estimates which motion hypothesis the driver is more likely to adopt as a strategy. By integrating the predictions of multiple motion hypotheses, more accurate predictions are obtained. Ultimately, it estimates the driver's travel path and acceptable risk level and predicts the spatiotemporal trajectory of HDVs within a future time window.",
+    "volume": "8",
+    "issue": "1",
+    "firstpage": "9210052",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2024.9210052",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2024.9210052.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/3/31",
+    "online_date": "2025/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2024.9210051",
+    "title": "GRU-LSTM model based on the SSA for short-term traffic flow prediction",
+    "authors": [
+      "Changxi Ma",
+      "Xiaoyu Huang",
+      "Yongpeng Zhao",
+      "Tao Wang",
+      "Bo Du"
+    ],
+    "keywords": [
+      "traffic flow prediction",
+      "hybrid model",
+      "sparrow search algorithm (SSA)",
+      "long short-term memory (LSTM) network",
+      "gated recurrent unit (GRU)"
+    ],
+    "abstract": "The transportation department relies on accurate traffic forecasting for effective decision-making. However, determining relevant parameters for existing traffic flow prediction models poses challenges. To address this issue, this study proposes a hybrid model, sparrow search algorithm-gated recurrent unit-long short-term memory (SSA-GRU-LSTM), which leverages the SSA to optimize the GRUs and LSTM networks. The SSA is employed to identify the optimal parameters for the GRU-LSTM model, mitigating their impact on prediction accuracy. This model integrates the predictive efficiency of the GRU, LSTM’s capability in temporal data analysis, and the fast convergence and global search attributes of the SSA. Comprehensive experiments are conducted to validate the proposed method via traffic flow datasets, and the results are compared with those of baseline models. The numerical results demonstrate the superior performance of the SSA-GRU-LSTM model. Compared with the baselines, the proposed model results in reductions in the root mean square error (RMSE) of 4.632%–45.206%, the mean absolute error (MAE) of 2.608%–53.327%, the mean absolute percentage error (MAPE) of 1.324%–13.723%, and an increase in  R2 of 0.5%–17.5%. Consequently, the SSA-GRU-LSTM model has high prediction accuracy and measurement stability.",
+    "volume": "8",
+    "issue": "1",
+    "firstpage": "9210051",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2024.9210051",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2024.9210051.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/3/31",
+    "online_date": "2025/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2024.9210048",
+    "title": "Use of virtual reality for automated driving simulation",
+    "authors": [
+      "Tanjida Tahmina",
+      "Mark Fuchs",
+      "Chao Shi"
+    ],
+    "keywords": [
+      "autonomous driving",
+      "virtual reality (VR)",
+      "driving simulator",
+      "virtual environment",
+      "immersion"
+    ],
+    "abstract": "This study scrutinizes the use of virtual reality (VR) in automated driving simulation environments, with a focus on publication year, driving simulator type, virtual reality (VR) technology, and the advantages and drawbacks of VR application in autonomous driving simulations. An analysis of 87 articles from 10 databases reveals a notable uptick in VR-related research for autonomous driving simulations after 2015, demonstrating VR’s potential in crafting realistic and secure environments for driving research. The identified challenges include motion sickness in participants, validation of driving scenarios, and simulator discomfort, alongside other obstacles and benefits. This study delineates existing research gaps and proposes research directions, aiming to inform and guide subsequent scholarly work at the intersection of VR and autonomous driving research.",
+    "volume": "8",
+    "issue": "1",
+    "firstpage": "9210048",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2024.9210048",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2024.9210048.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/3/31",
+    "online_date": "2025/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2024.9210045",
+    "title": "Long-term trajectory prediction method based on highway vehicle-following behavior patterns",
+    "authors": [
+      "Zhichao An",
+      "Yimin Wu",
+      "Fan Zhang",
+      "Dong Zhang",
+      "Bolin Gao",
+      "Suying Zhang",
+      "Guang Zhou",
+      "Aoning Jia"
+    ],
+    "keywords": [
+      "highways",
+      "long-term trajectory prediction",
+      "leading vehicle behavior patterns",
+      "car-following model"
+    ],
+    "abstract": "To address existing shortcomings such as short time domains and low interpretability, this study proposes a long-term trajectory prediction model for leading vehicles that considers the impact of traffic flow. Through an analysis of trailing trajectory data from the HighD natural driving dataset, fitting relationships for the following behavior patterns were derived. Building upon the intelligent driver model (IDM), three long-term trajectory prediction models were established: acceleration delta velocity (ADV), space delta velocity intelligent driver model (SDVIDM), and space velocity intelligent driver model (SVIDM). These models were then compared with the IDM model through simulations. The results indicate that when there is one vehicle ahead, under aggressive following conditions, the ADV model outperforms the IDM model, reducing the root mean square errors in acceleration, speed, and position by 79.61%, 91.26%, and 87.82%, respectively. In scenarios with two vehicles ahead and conservative short-distance following, the SDVIDM model exhibits reductions of 83.42%, 92.85%, and 92.25%, while the SVIDM model shows reductions of 82.31%, 92.47%, and 94.02%, respectively, compared to the IDM model.",
+    "volume": "8",
+    "issue": "1",
+    "firstpage": "9210045",
+    "lastpage": "",
+    "year": 2025,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2024.9210045",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2024.9210045.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2025/3/31",
+    "online_date": "2025/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210050",
+    "title": "Application of the traffic fundamental diagram to assess detector performance",
+    "authors": [
+      "Katherine Riffle",
+      "Edward J. Smaglik",
+      "Steven Procaccio",
+      "Steven R. Gehrke",
+      "Brendan J. Russo",
+      "David Hurwitz"
+    ],
+    "keywords": [
+      "traffic detector",
+      "detector health",
+      "traffic signal",
+      "signalized intersection",
+      "detector malfunction"
+    ],
+    "abstract": "This study develops new methods for evaluating detector health via event-based outputs and existing traffic flow theory. In this work, event-based detector data outputs were used to develop empirical vehicle volume‒density curves per Greenshields fundamental model. Through integration, these empirical lines were compared with a conceptual volume‒density curve for each detector, which was generated with average headway and posted speed limit data. The detector performance and site information were also used to model a predicted volume‒density relationship for each detector on the basis of empirical observations, which was then compared with the conceptual line in the same manner as the empirical lines. The outcomes of each comparison were then used to create a database for assessing detector health within the structure of an algorithm. The algorithm is presented and discussed, followed by directions for future research, applications for practice, lessons learned, and limitations of this work.",
+    "volume": "7",
+    "issue": "4",
+    "firstpage": "279",
+    "lastpage": "291",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210050",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210050.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/12/31",
+    "online_date": "2024/12/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210047",
+    "title": "Improving the representation of traffic states: A novel method for link selection of urban road networks",
+    "authors": [
+      "Syed Muzammil Abbas Rizvi",
+      "Bernhard Friedrich"
+    ],
+    "keywords": [
+      "macroscopic fundamental diagram",
+      "network traffic dynamics",
+      "link selection",
+      "entropy weights",
+      "heterogeneity"
+    ],
+    "abstract": "The macroscopic fundamental diagram (MFD) represents the aggregated traffic states of a road network. However, the uniqueness of an empirically estimated MFD cannot be guaranteed due to the problem of link selection. Instationarity and varying flow patterns make it difficult to select link flows that are representative of the traffic state in the whole network. This study developed a new method for selecting links equipped with loop detectors that represent a particular traffic state of a road network. The method utilizes a metric of heterogeneity characterizing the role of a network link over the time of day. The dispersion metric indicates the heterogeneity in traffic states and the dynamic role of each time interval. It ranks links based on the heterogeneity-weighted saturation level, with the highest-rank links representing the most homogeneous subset of sample links. This study compared classical and proposed dynamic weights using loop detector data from Zurich and London and a simulated network. Sample links were selected based on different saturation levels, and the saturation level was associated with the heterogeneity level to identify the links creating heterogeneity in the road network.",
+    "volume": "7",
+    "issue": "4",
+    "firstpage": "266",
+    "lastpage": "278",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210047",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210047.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/12/31",
+    "online_date": "2024/12/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210046",
+    "title": "Extracting networkwide road segment location, direction, and turning movement rules from global positioning system vehicle trajectory data for macrosimulation",
+    "authors": [
+      "Adham Badran",
+      "Ahmed El-Geneidy",
+      "Luis Miranda-Moreno"
+    ],
+    "keywords": [
+      "global positioning system (GPS)",
+      "transport model",
+      "road network",
+      "intersection control",
+      "map inference",
+      "road direction",
+      "turning movement"
+    ],
+    "abstract": "The emergence of road users’ global positioning system (GPS) trajectory data is attracting increasing research interest in knowledge discovery to improve transport planning-related methods and tools. In fact, the widespread use of GPS-enabled smartphones and the mobile internet has increased the availability and size of such data. With the increase in GPS data coverage and availability, some research has expanded its use to estimate state-wide vehicle-miles travelled, to classify driving maneuvers for road safety assessment, or to estimate environmental performance indicators, such as vehicular fuel consumption and pollution emissions. In computer science, research has used GPS data to infer road network maps. Although the inferred maps provide a correct topology and connectivity, they lack the essential details to be used for transport modeling. Therefore, this work proposes a method to extract network-wide road direction and turning movement rules. In addition, building a road network model under the widely used macroscopic transport modeling software serves as a proof of concept. A sensitivity analysis was carried out to determine the output quality and recommend future improvements. Road segment geometry and directionality were extracted accurately (case study accuracy of 95%); however, turning movement rules can be extracted more accurately using a larger GPS vehicle trajectory sample (case study accuracy of 68%).",
+    "volume": "7",
+    "issue": "4",
+    "firstpage": "258",
+    "lastpage": "265",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210046",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210046.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/12/31",
+    "online_date": "2024/12/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210044",
+    "title": "Decision making and control of autonomous vehicles under the condition of front vehicle sideslip",
+    "authors": [
+      "Jian Chen",
+      "Yunfeng Xiang",
+      "Yugong Luo",
+      "Keqiang Li",
+      "Xiaomin Lian"
+    ],
+    "keywords": [
+      "front vehicle sideslip",
+      "trajectory prediction",
+      "emergency obstacle avoidance",
+      "trajectory planning",
+      "driving characteristic vector"
+    ],
+    "abstract": "The behaviors of front vehicles are important factors that can influence the driving safety of autonomous vehicles on highways. This situation poses a serious threat to the security of autonomous vehicles, especially when front vehicle sideslip occurs. To address this problem, a decision-making approach can be used to promote the emergency obstacle avoidance capability of autonomous vehicles. First, the front sideslip vehicle trajectory was predicted by the kinematic models Constant Acceleration (CA), Constant Turn Rate and Velocity (CTRV), and Constant Turn Rate and Acceleration (CTRA) based on the front vehicle sideslip identification results. The CTRA prediction approach is chosen by comparing the prediction errors of the three models. To enhance the obstacle avoidance ability of autonomous vehicles, a novel trajectory planning method based on a driving characteristic vector is proposed. Model prediction control (MPC) is used to track the planned trajectory. Finally, the cosimulation platform of Simulink and Carsim was built. The simulation results show that autonomous vehicles can avoid collisions with front sideslip vehicles through the proposed approach, and the proposed trajectory planning approach has better obstacle avoidance ability than does the traditional approach.",
+    "volume": "7",
+    "issue": "4",
+    "firstpage": "248",
+    "lastpage": "257",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210044",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210044.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/12/31",
+    "online_date": "2024/12/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210042",
+    "title": "Advancements and prospects in multisensor fusion for autonomous driving",
+    "authors": [
+      "Chen Tu",
+      "Liang Wang",
+      "Jaehyuck Lim",
+      "Inhi Kim"
+    ],
+    "keywords": [],
+    "abstract": "",
+    "volume": "7",
+    "issue": "4",
+    "firstpage": "245",
+    "lastpage": "247",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210042",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210042.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/12/31",
+    "online_date": "2024/12/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210039",
+    "title": "Development of deep-learning-based autonomous agents for low-speed maneuvering in Unity",
+    "authors": [
+      "Riccardo Berta",
+      "Luca Lazzaroni",
+      "Alessio Capello",
+      "Marianna Cossu",
+      "Luca Forneris",
+      "Alessandro Pighetti",
+      "Francesco Bellotti"
+    ],
+    "keywords": [
+      "automated driving",
+      "autonomous agents",
+      "deep reinforcement learning",
+      "curriculum learning",
+      "modeling and simulation"
+    ],
+    "abstract": "This study provides a systematic analysis of the resource-consuming training of deep reinforcement-learning (DRL) agents for simulated low-speed automated driving (AD). In Unity, this study established two case studies: garage parking and navigating an obstacle-dense area. Our analysis involves training a path-planning agent with real-time-only sensor information. This study addresses research questions insufficiently covered in the literature, exploring curriculum learning (CL), agent generalization (knowledge transfer), computation distribution (CPU vs. GPU), and mapless navigation. CL proved necessary for the garage scenario and beneficial for obstacle avoidance. It involved adjustments at different stages, including terminal conditions, environment complexity, and reward function hyperparameters, guided by their evolution in multiple training attempts. Fine-tuning the simulation tick and decision period parameters was crucial for effective training. The abstraction of high-level concepts (e.g., obstacle avoidance) necessitates training the agent in sufficiently complex environments in terms of the number of obstacles. While blogs and forums discuss training machine learning models in Unity, a lack of scientific articles on DRL agents for AD persists. However, since agent development requires considerable training time and difficult procedures, there is a growing need to support such research through scientific means. In addition to our findings, we contribute to the R&amp;D community by providing our environment with open sources.",
+    "volume": "7",
+    "issue": "3",
+    "firstpage": "229",
+    "lastpage": "244",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210039",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210039.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/9/30",
+    "online_date": "2024/9/26",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210038",
+    "title": "Coordinated optimization of signal timing for intersections with dynamic shared through- and right-turn lanes",
+    "authors": [
+      "Zhe Zheng",
+      "Jian Yuan",
+      "Kun An",
+      "Nan Zheng",
+      "Wanjing Ma"
+    ],
+    "keywords": [
+      "traffic control",
+      "dynamic lane",
+      "right-turn traffic",
+      "optimization model"
+    ],
+    "abstract": "Through and right-turn shared lanes are widely designed to increase the capacity of through traffic, but they can also cause delays for right-turn vehicles. This study presents a dynamic control method for a shared lane that prioritizes right-turn vehicles at the beginning of the cycle and subsequently allows through traffic to queue in the shared lane for saturated discharge. The traffic wave model is employed to reveal the dynamics of the traffic flow under this control and to derive the relationships among major traffic parameters. Constrained by the major relationship, a linear programming approach to minimize the total queue length is developed to determine the proper values of control parameters, including the shared area length, subordinate signal time lag, and shared or exclusive duration. A sensitivity analysis of the control parameters for different arrival rates and flow ratios is performed. Comparisons are conducted among the dynamic shared lane, the fixed exclusive lane, and the fixed shared lane. The results show that the dynamic control method results in a lower delay for both through and total traffic.",
+    "volume": "7",
+    "issue": "3",
+    "firstpage": "219",
+    "lastpage": "228",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210038",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210038.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/9/30",
+    "online_date": "2024/9/26",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210035",
+    "title": "Spectrum quantification-based safety efficiency evaluation of autonomous vehicle under random cut-in scenarios",
+    "authors": [
+      "Jiang Chen",
+      "Weiwei Zhang",
+      "Miao Liu",
+      "Xiaolan Wang",
+      "Jun Gong",
+      "Jun Li",
+      "Boqi Li",
+      "Jiejie Xu"
+    ],
+    "keywords": [
+      "safety efficiency evaluation",
+      "automated lane-keeping system (ALKS)",
+      "cut-in scenario",
+      "frequency quantify"
+    ],
+    "abstract": "Continuous-scale trusted safety efficiency evaluation is crucial for the agile development and robust validation of autonomous vehicle intelligence. While the UN R157 Regulation evaluates automated lane-keeping system (ALKS) performance baselines through safe collision plots (SCPs) in various scenario clusters, quantifying the specific ALKS safety efficiency remains challenging. We propose a spectrum quantification approach to evaluate the safety efficiency of autonomous vehicles in cut-in scenarios. First, we collected speed-distance data under different cut-in scenarios and extracted essential spectral features to indicate the vehicle motion parameters during the cut-in process. Second, by utilizing Fourier analysis, a spectral analysis model was built to quantify and analyze the vehicle motion characteristics, providing insights into scenario safety. Finally, we created approximate analytical equations for the normalized disturbance frequencies in the nonlinear response scenarios of autonomous driving systems by combining the SCP with a frequency spectrum analysis model. The results showed that the normalized disturbance frequency in the cut-in scenario was approximately 0.2. When the relative longitudinal distance and speed of the vehicle are the same, if the cut-in speed of the cut-in vehicle is larger, the normalized disturbance frequency is higher, indicating that the cut-in process of the autonomous vehicle is more dangerous and may trigger a collision.",
+    "volume": "7",
+    "issue": "3",
+    "firstpage": "205",
+    "lastpage": "218",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210035",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210035.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/9/30",
+    "online_date": "2024/9/26",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210030",
+    "title": "CPS architecture design for urban roadway intersections based on MBSE",
+    "authors": [
+      "Chen Wang",
+      "Xiaoping Ma",
+      "Limin Jia",
+      "Zheng Lai",
+      "Zhexuan Yang",
+      "Han Yan",
+      "Jing Zhao"
+    ],
+    "keywords": [
+      "Model-Based Systems Engineering (MBSE)",
+      "urban intersection",
+      "cyber-physical system",
+      "architecture design",
+      "System Modeling Language (SysML)"
+    ],
+    "abstract": "With the rapid growth of urbanization and the increasing demand for transportation, urban traffic congestion has become a hindrance to individuals’ travel experience. Urban intersections are one of the primary sources of traffic congestion, and these bottlenecks have a negative impact not only on traffic efficacy but also on the surrounding road traffic in the region. To alleviate urban traffic congestion, cyber-physical systems have been widely implemented in the transportation industry, allowing for the perception, analysis, calculation, and dispatching of urban traffic flow, as well as making urban transportation safe, efficient, and quick. As the system scale and functions increase, system design has become increasingly complex, necessitating a deeper comprehension of the system’s structure and interaction relationships to construct a stable and reliable system. Therefore, this study proposes a method for designing cyber-physical systems for urban traffic intersections based on Model-Based Systems Engineering (MBSE). This method models and analyses exhaustively the system’s requirements, functions, and logical architecture using System Modeling Language (SysML). After the architecture design has been completed, an architecture verification and optimization method based on Failure Mode and Effect Analysis (FMEA) for urban road intersection cyber-physical systems is utilized to analyze the architecture’s reliability by analyzing the failure modes of activities and to optimize the system architecture to improve the design’s efficiency and reliability.",
+    "volume": "7",
+    "issue": "3",
+    "firstpage": "190",
+    "lastpage": "204",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210030",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210030.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/9/30",
+    "online_date": "2024/9/26",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210043",
+    "title": "Convergence of emerging transportation trends: A comprehensive review of shared autonomous vehicles",
+    "authors": [
+      "Deema Almaskati",
+      "Sharareh Kermanshachi",
+      "Apurva Pamidimukkala"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "shared autonomous vehicles (SAVs)",
+      "policy",
+      "autonomous mobility on-demand",
+      "public transportation"
+    ],
+    "abstract": "The mobility landscape is experiencing major changes due to two emerging transportation trends, autonomous vehicles (AVs) and on-demand transportation, and the convergence of these smart mobility innovations as shared autonomous vehicles (SAVs) can considerably alter travel behavior and consequently the ecological and societal aspects of the transportation sector. On-demand autonomous mobility is a promising transportation mode, but further research is necessary to evaluate its various aspects and implications prior to widespread adoption. Thus, this study investigates the effects of integrating automation and on-demand mobility by analyzing the effects on the environment, public transportation, land use, vehicle ownership, and public acceptance. A comprehensive literature review was performed, and through a detailed review of 210 articles, the impacts of each of these categories were determined and classified according to their causes, and the number of publications with which they were cited in the literature was determined. The review showed that SAVs can either positively or negatively impact categories and have the potential to minimize mobility obstacles and transportation inequity if legislators use technology to develop a better transportation system by initiating effective policies that govern the four impacted areas. A list of 22 policy recommendations designed to avoid the negative consequences of SAVs by maximizing the benefits of the technology while limiting the associated risks was also identified. The findings of this review will be beneficial to AV manufacturers, transportation professionals, and especially policymakers, who play an integral role in shaping how society benefits from SAV technology.",
+    "volume": "7",
+    "issue": "3",
+    "firstpage": "177",
+    "lastpage": "189",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210043",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210043.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/9/30",
+    "online_date": "2024/9/26",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210049",
+    "title": "Multisensor information fusion: Future of environmental perception in intelligent vehicles",
+    "authors": [
+      "Yongsheng Zhang",
+      "Chen Tu",
+      "Kun Gao",
+      "Liang Wang"
+    ],
+    "keywords": [
+      "intelligent vehicles",
+      "environmental perception",
+      "multisensor information fusion",
+      "autonomous driving",
+      "traffic safety"
+    ],
+    "abstract": "As urban transportation increasingly impacts daily life, efficiently utilizing traffic resources and developing public transportation have become crucial for addressing issues such as congestion, frequent accidents, and noise pollution. The rapid advancement of intelligent autonomous driving technologies, particularly environmental perception technologies, offers new directions for solving these problems. This review discusses the application of multisensor information fusion technology in environmental perception for intelligent vehicles, analyzing the components and performance of various sensors and their specific applications in autonomous driving. Through multisensor information fusion, the accuracy of environmental perception is enhanced, optimizing decision support for autonomous driving systems and thereby improving vehicle safety and driving efficiency. This study also discusses the challenges faced by information fusion technology and future development trends, providing references for further research and application in intelligent transportation systems.",
+    "volume": "7",
+    "issue": "3",
+    "firstpage": "163",
+    "lastpage": "176",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210049",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210049.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/9/30",
+    "online_date": "2024/9/26",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210037",
+    "title": "Segmented trust assessment in autonomous vehicles via eye-tracking",
+    "authors": [
+      "Miklós Lukovics",
+      "Szabolcs Prónay",
+      "Barbara Nagy"
+    ],
+    "keywords": [
+      "autonomous vehicles (AVs)",
+      "technology acceptance",
+      "trust",
+      "eye-tracking"
+    ],
+    "abstract": "Previous studies have identified trust as one of the key factors in the technology acceptance of autonomous vehicles. As these studies mostly investigated the population in general, little is known about segment-specific differences. Furthermore, the widely used survey methods are less able to capture the deeper forms of trust—which neuroscientific methods are much better suited to capture. The main objective of our research is to study trust as one of the key factors of technology acceptance related to autonomous vehicles by using neuroscientific methods for specific consumer segments. Real-time eye-tracking tests were applied to a sample of 113 participants, combined with a posttest self-report. The tests were carried out under laboratory conditions during which our subjects watched videos recorded with the internal cameras of autonomous vehicles. Based on the fixation count, total fixation duration, and pupil dilation, we empirically verified that the trust level of all five identified segments is relatively low, while the trust level of the “traditional rejecting” segment is the lowest. An increase in trust level can be shown if the subjects receive extra information about the journey. Another important finding is that the self-reported trust level is not always congruent with the eye-tracking analysis results; therefore, combined approaches can lead to greater measurement validity.",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "151",
+    "lastpage": "161",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210037",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210037.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210036",
+    "title": "Kinematics-aware multigraph attention network with residual learning for heterogeneous trajectory prediction",
+    "authors": [
+      "Zihao Sheng",
+      "Zilin Huang",
+      "Sikai Chen"
+    ],
+    "keywords": [
+      "trajectory prediction",
+      "physics-informed deep learning",
+      "multigraph attention",
+      "residual learning",
+      "automated driving."
+    ],
+    "abstract": "Trajectory prediction for heterogeneous traffic agents plays a crucial role in ensuring the safety and efficiency of automated driving in highly interactive traffic environments. Numerous studies in this area have focused on physics-based approaches because they can clearly interpret the dynamic evolution of trajectories. However, physics-based methods often suffer from limited accuracy. Recent learning-based methods have demonstrated better performance, but they cannot be fully trusted due to the insufficient incorporation of physical constraints. To mitigate the limitations of purely physics-based and learning-based approaches, this study proposes a kinematics-aware multigraph attention network (KA-MGAT) that incorporates physics models into a deep learning framework to improve the learning process of neural networks. Besides, we propose a residual prediction module to further refine the trajectory predictions and address the limitations arising from simplified assumptions in kinematic models. We evaluate our proposed model through experiments on two challenging trajectory datasets, namely, ApolloScape and NGSIM. Our findings from the experiments demonstrate that our model outperforms various kinematics-agnostic models with respect to prediction accuracy and learning efficiency.",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "138",
+    "lastpage": "150",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210036",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210036.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210034",
+    "title": "Roadside cross-camera vehicle tracking combining visual and spatial-temporal information for a cloud control system",
+    "authors": [
+      "Bolin Gao",
+      "Zhuxin Li",
+      "Dong Zhang",
+      "Yanwei Liu",
+      "Jiaxing Chen",
+      "Ziyuan Lv"
+    ],
+    "keywords": [
+      "integrated Vehicle–Road–Cloud",
+      "cross-camera",
+      "online tracking",
+      "intercamera association"
+    ],
+    "abstract": "Roadside cameras play a crucial role in road traffic, serving as an indispensable part of integrated vehicle-road-cloud systems due to their extensive visibility and monitoring capabilities. Nevertheless, these cameras face challenges in continuously tracking targets across perception domains. To address the issue of tracking vehicles across nonoverlapping perception domains between cameras, we propose a cross-camera vehicle tracking method within a Vehicle–Road–Cloud system that integrates visual and spatiotemporal information. A Gaussian model with microlevel traffic features is trained using vehicle information obtained through online tracking. Finally, the association of vehicle targets is achieved through the Gaussian model combining time and visual feature information. The experimental results indicate that the proposed system demonstrates excellent performance.",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "129",
+    "lastpage": "137",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210034",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210034.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210028",
+    "title": "Public perception of connected and automated vehicles: Benefits, concerns, and barriers from an Australian perspective",
+    "authors": [
+      "Ali Matin",
+      "Hussein Dia"
+    ],
+    "keywords": [
+      "connected and automated vehicles (CAVs)",
+      "autonomous vehicles",
+      "public acceptance",
+      "stakeholder consultations",
+      "road safety"
+    ],
+    "abstract": "This study investigates the attitudes and concerns of the Australian public toward connected and autonomous vehicles (CAVs), and the factors influencing their willingness to adopt this technology. Through a comprehensive survey, a diverse group of respondents provided valuable insights toward various CAV scenarios such as riding in a vehicle with no driver, self-driving public transport, self-driving taxis, and heavy vehicles without drivers. The results highlight the significant impact of safety concerns about automated vehicles on individuals’ attitudes across all scenarios. Higher levels of concern were associated with more negative attitudes, and a strong correlation between concerns and opposition underlines the necessity of addressing these apprehensions to build public trust and promote CAV adoption. Interestingly, nearly 70% of respondents felt uncomfortable driving next to a CAV, but they displayed more confidence in adopting automated public transport in the near future. Additionally, around 40% of participants indicated a strong willingness to purchase a CAV, primarily driven by the desire to reduce their carbon footprint and safety considerations. Notably, respondents with health conditions or disability exhibited heightened interest (almost double those without health conditions) in CAV technology. Gender differences emerged in attitudes and preferences toward CAVs, with women expressing a greater level of concern and perceiving higher barriers to CAV deployment. This emphasizes the importance of employing targeted approaches to address the specific concerns of different demographics. The study also underscores the role of trust in technology as a significant barrier to CAV deployment, ranking high among respondents’ concerns. To overcome these challenges and facilitate successful CAV deployment, various strategies are suggested, including live demonstrations, dedicated routes for automated public transport, adoption incentives, and addressing liability concerns. The findings from this study offer valuable insights for government agencies, vehicle manufacturers, and stakeholders in promoting the successful implementation of CAVs. By understanding societal acceptance and addressing concerns, decision-makers can devise effective interventions and policies to ensure the safe and widespread adoption of CAVs in Australia. Moreover, vehicle manufacturers can leverage these results to consider design aspects that align with passenger preferences, thereby facilitating the broader acceptance and adoption of CAVs in the future. Finally, this research provides a significant contribution to the understanding of public perception and acceptance of CAVs in the Australian context. By guiding decision-making and informing strategies, the study lays the foundation for a safer and more effective integration of CAVs into the country’s transportation landscape.",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "108",
+    "lastpage": "128",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210028",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210028.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210027",
+    "title": "Localization and mapping algorithm based on Lidar-IMU-Camera fusion",
+    "authors": [
+      "Yibing Zhao",
+      "Yuhe Liang",
+      "Zhenqiang Ma",
+      "Lie Guo",
+      "Hexin Zhang"
+    ],
+    "keywords": [
+      "Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain (LEGO-LOAM)",
+      "monocular vision system",
+      "error state Kalman filter",
+      "odometer"
+    ],
+    "abstract": "Positioning and mapping technology is a difficult and hot topic in autonomous driving environment sensing systems. In a complex traffic environment, the signal of the Global Navigation Satellite System (GNSS) will be blocked, leading to inaccurate vehicle positioning. To ensure the security of automatic electric campus vehicles, this study is based on the Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain (LEGO-LOAM) algorithm with a monocular vision system added. An algorithm framework based on Lidar-IMU-Camera (Lidar means light detection and ranging) fusion was proposed. A lightweight monocular vision odometer model was used, and the LEGO-LOAM system was employed to initialize monocular vision. The visual odometer information was taken as the initial value of the laser odometer. At the back-end opti9mization phase error state, the Kalman filtering fusion algorithm was employed to fuse the visual odometer and LEGO-LOAM system for positioning. The visual word bag model was applied to perform loopback detection. Taking the test results into account, the laser radar loopback detection was further optimized, reducing the accumulated positioning error. The real car experiment results showed that our algorithm could improve the mapping quality and positioning accuracy in the campus environment. The Lidar-IMU-Camera algorithm framework was verified on the Hong Kong city dataset UrbanNav. Compared with the LEGO-LOAM algorithm, the results show that the proposed algorithm can effectively reduce map drift, improve map resolution, and output more accurate driving trajectory information.",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "97",
+    "lastpage": "107",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210027",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210027.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210026",
+    "title": "Online learning-based model predictive trajectory control for connected and autonomous vehicles: Modeling and physical tests",
+    "authors": [
+      "Qianwen Li",
+      "Peng Zhang",
+      "Handong Yao",
+      "Zhiwei Chen",
+      "Xiaopeng Li"
+    ],
+    "keywords": [
+      "connected and autonomous vehicles (CAVs)",
+      "reinforcement learning",
+      "physical tests",
+      "time–specific speed and location",
+      "longitudinal and lateral control"
+    ],
+    "abstract": "Motivated by the promising benefits of connected and autonomous vehicles (CAVs) in improving fuel efficiency, mitigating congestion, and enhancing safety, numerous theoretical models have been proposed to plan CAV multiple-step trajectories (time–specific speed/location trajectories) to accomplish various operations. However, limited efforts have been made to develop proper trajectory control techniques to regulate vehicle movements to follow multiple-step trajectories and test the performance of theoretical trajectory planning models with field experiments. Without an effective control method, the benefits of theoretical models for CAV trajectory planning can be difficult to harvest. This study proposes an online learning-based model predictive vehicle trajectory control structure to follow time–specific speed and location profiles. Unlike single-step controllers that are dominantly used in the literature, a multiple-step model predictive controller is adopted to control the vehicle’s longitudinal movements for higher accuracy. The model predictive controller output (speed) cannot be interpreted by vehicles. A reinforcement learning agent is used to convert the speed value to the vehicle’s direct control variable (i.e., throttle/brake). The reinforcement learning agent captures real-time changes in the operating environment. This is valuable in saving parameter calibration resources and improving trajectory control accuracy. A line tracking controller keeps vehicles on track. The proposed control structure is tested using reduced-scale robot cars. The adaptivity of the proposed control structure is demonstrated by changing the vehicle load. Then, experiments on two fundamental CAV platoon operations (i.e., platooning and split) show the effectiveness of the proposed trajectory control structure in regulating robot movements to follow time–specific reference trajectories.",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "86",
+    "lastpage": "96",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210026",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210026.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210040",
+    "title": "Critical roles of control engineering in the development of intelligent and connected vehicles",
+    "authors": [
+      "Yang Fei",
+      "Peng Shi",
+      "Yang Liu",
+      "Liang Wang"
+    ],
+    "keywords": [],
+    "abstract": "",
+    "volume": "7",
+    "issue": "2",
+    "firstpage": "79",
+    "lastpage": "85",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210040",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210040.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/6/30",
+    "online_date": "2024/6/30",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210041",
+    "title": "Enhancing safety and efficiency in automated container terminals: Route planning for hazardous material AGV using LSTM neural network and Deep Q-Network",
+    "authors": [
+      "Fei Li",
+      "Junchi Cheng",
+      "Zhiqi Mao",
+      "Yuhao Wang",
+      "Pingfa Feng"
+    ],
+    "keywords": [
+      "container yard",
+      "route planning",
+      "hazardous material Automated Guided Vehicle (AGV)",
+      "Long Short-Term Memory (LSTM)",
+      "Deep Q-Network (DQN)"
+    ],
+    "abstract": "As the proliferation and development of automated container terminal continue, the issues of efficiency and safety become increasingly significant. The container yard is one of the most crucial cargo distribution centers in a terminal. Automated Guided Vehicles (AGVs) that carry materials of varying hazard levels through these yards without compromising on the safe transportation of hazardous materials, while also maximizing efficiency, is a complex challenge. This research introduces an algorithm that integrates Long Short-Term Memory (LSTM) neural network with reinforcement learning techniques, specifically Deep Q-Network (DQN), for routing an AGV carrying hazardous materials within a container yard. The objective is to ensure that the AGV carrying hazardous materials efficiently reaches its destination while effectively avoiding AGVs carrying non-hazardous materials. Utilizing real data from the Meishan Port in Ningbo, Zhejiang, China, the actual yard is first abstracted into an undirected graph. Since LSTM neural network can efficiently conveys and represents information in long time sequences and do not causes useful information before long time to be ignored, a two-layer LSTM neural network with 64 neurons per layer was constructed for predicting the motion trajectory of AGVs carrying non-hazardous materials, which are incorporated into the map as background AGVs. Subsequently, DQN is employed to plan the route for an AGV transporting hazardous materials, aiming to reach its destination swiftly while avoiding encounters with other AGVs. Experimental tests have shown that the route planning algorithm proposed in this study improves the level of avoidance of hazardous material AGV in relation to non-hazardous material AGVs. Compared to the method where hazardous material AGV follow the shortest path to their destination, the avoidance efficiency was enhanced by 3.11%. This improvement demonstrates potential strategies for balancing efficiency and safety in automated terminals. Additionally, it provides insights for designing avoidance schemes for autonomous driving AGVs, offering solutions for complex operational environments where safety and efficient navigation are paramount.",
+    "volume": "7",
+    "issue": "1",
+    "firstpage": "64",
+    "lastpage": "77",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210041",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210041.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/3/31",
+    "online_date": "2024/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210033",
+    "title": "Optimized speed control for electric vehicles on dynamic wireless charging lanes: An eco-driving approach",
+    "authors": [
+      "Lingshu Zhong",
+      "Ho Sheau En",
+      "Mingyang Pei",
+      "Jingwen Xiong",
+      "Tao Wang"
+    ],
+    "keywords": [
+      "dynamic wireless charging (DWC)",
+      "electric vehicle (EV)",
+      "eco-driving",
+      "speed control",
+      "load balancing"
+    ],
+    "abstract": "As the adoption of Electric Vehicles (EVs) intensifies, two primary challenges emerge: limited range due to battery constraints and extended charging times. The traditional charging stations, particularly those near highways, exacerbate these issues with necessary detours, inconsistent service levels, and unpredictable waiting durations. The emerging technology of dynamic wireless charging lanes (DWCLs) may alleviate range anxiety and eliminate long charging stops; however, the driving speed on DWCL significantly affects charging efficiency and effective charging time. Meanwhile, the existing research has addressed load balancing optimization on Dynamic Wireless Charging (DWC) systems to a limited extent. To address this critical issue, this study introduces an innovative eco-driving speed control strategy, providing a novel solution to the multi-objective optimization problem of speed control on DWCL. We utilize mathematical programming methods and incorporate the longitudinal dynamics of vehicles to provide an accurate physical model of EVs. Three objective functions are formulated to tackle the challenges at hand: reducing travel time, increasing charging efficiency, and achieving load balancing on DWCL, which corresponds to four control strategies. The results of numerical tests indicate that a comprehensive control strategy, which considers all objectives, achieves a minor sacrifice in travel time reduction while significantly improving energy efficiency and load balancing. Furthermore, by defining the energy demand and speed range through an upper operation limit, a relatively superior speed control strategy can be selected. This work contributes to the discourse on DWCL integration into modern transportation systems, enhancing the EV driving experience on major roads.",
+    "volume": "7",
+    "issue": "1",
+    "firstpage": "52",
+    "lastpage": "63",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210033",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210033.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/3/31",
+    "online_date": "2024/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210032",
+    "title": "Collaborative multi-lane on-ramp merging strategy for connected and automated vehicles using dynamic conflict graph",
+    "authors": [
+      "Jia Shi",
+      "Yugong Luo",
+      "Pengfei Li",
+      "Jiawei Wang",
+      "Keqiang Li"
+    ],
+    "keywords": [
+      "cooperative merging",
+      "multi-lane",
+      "graph theory",
+      "cyber-physical integration system"
+    ],
+    "abstract": "The on-ramp merging in multi-lane highway scenarios presents challenges due to the complexity of coordinating vehicles’ merging and lane-changing behaviors, while ensuring safety and optimizing traffic flow. However, there are few studies that have addressed the merging problem of ramp vehicles and the cooperative lane-change problem of mainline vehicles within a unified framework and proposed corresponding optimization strategies. To tackle this issue, this study adopts a cyber-physical integration perspective and proposes a graph-based solution approach. First, the information of vehicle groups in the physical plane is mapped to the cyber plane, and a dynamic conflict graph is introduced in the cyber space to describe the conflict relationships among vehicle groups. Subsequently, graph decomposition and search strategies are employed to obtain the optimal solution, including the set of mainline vehicles changing lanes, passing sequences for each route, and corresponding trajectories. Finally, the proposed dynamic conflict graph-based algorithm is validated through simulations in continuous traffic with various densities, and its performance is compared with the default algorithm in SUMO. The results demonstrate the effectiveness of the proposed approach in improving vehicle safety and traffic efficiency, particularly in high traffic density scenarios, providing valuable insights for future research in multi-lane merging strategies.",
+    "volume": "7",
+    "issue": "1",
+    "firstpage": "38",
+    "lastpage": "51",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210032",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210032.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/3/31",
+    "online_date": "2024/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210031",
+    "title": "Ethical decision-making in older drivers during critical driving situations: An online experiment",
+    "authors": [
+      "Amandeep Singh",
+      "Sarah Yahoodik",
+      "Yovela Murzello",
+      "Samuel Petkac",
+      "Yusuke Yamani",
+      "Siby Samuel"
+    ],
+    "keywords": [
+      "ethical decision making",
+      "age-differences",
+      "utilitarianism",
+      "moral dilemmas",
+      "driver behavior",
+      "simulated driving",
+      "bayesian hierarchical model"
+    ],
+    "abstract": "The present study examined the impact of aging on ethical decision-making in simulated critical driving scenarios. 204 participants from North America, grouped into two age groups (18–30 years and 65 years and above), were asked to decide whether their simulated automated vehicle should stay in or change from the current lane in scenarios mimicking the Trolley Problem. Each participant viewed a video clip rendered by the driving simulator at Old Dominion University and pressed the space-bar if they decided to intervene in the control of the simulated automated vehicle in an online experiment. Bayesian hierarchical models were used to analyze participants’ responses, response time, and acceptability of utilitarian ethical decision-making. The results showed significant pedestrian placement, age, and time-to-collision (TTC) effects on participants’ ethical decisions. When pedestrians were in the right lane, participants were more likely to switch lanes, indicating a utilitarian approach prioritizing pedestrian safety. Younger participants were more likely to switch lanes in general compared to older participants. The results imply that older drivers can maintain their ability to respond to ethically fraught scenarios with their tendency to switch lanes more frequently than younger counterparts, even when the tasks interacting with an automated driving system. The current findings may inform the development of decision algorithms for intelligent and connected vehicles by considering potential ethical dilemmas faced by human drivers across different age groups.",
+    "volume": "7",
+    "issue": "1",
+    "firstpage": "30",
+    "lastpage": "37",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210031",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210031.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/3/31",
+    "online_date": "2024/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210025",
+    "title": "Intelligent decision-making method for vehicles in emergency conditions based on artificial potential fields and finite state machines",
+    "authors": [
+      "Xunjia Zheng",
+      "Huilan Li",
+      "Qiang Zhang",
+      "Yonggang Liu",
+      "Xing Chen",
+      "Hui Liu",
+      "Tianhong Luo",
+      "Jianjie Gao",
+      "Lihong Xia"
+    ],
+    "keywords": [
+      "decision-making",
+      "artificial potential field",
+      "finite state machines",
+      "emergency conditions",
+      "autonomous driving"
+    ],
+    "abstract": "This study aims to propose a decision-making method based on artificial potential fields (APFs) and finite state machines (FSMs) in emergency conditions. This study presents a decision-making method based on APFs and FSMs for emergency conditions. By modeling the longitudinal and lateral potential energy fields of the vehicle, the driving state is identified, and the trigger conditions are provided for path planning during lane changing. In addition, this study also designed the state transition rules based on the longitudinal and lateral virtual forces. It established the vehicle decision-making model based on the finite state machine to ensure driving safety in emergency situations. To illustrate the performance of the decision-making model by considering APFs and finite state machines. The version of the model in the co-simulation platform of MATLAB and CarSim shows that the developed decision model in this study accurately generates driving behaviors of the vehicle at different time intervals. The contributions of this study are two-fold. A hierarchical vehicle state machine decision model is proposed to enhance driving safety in emergency scenarios. Mathematical models for determining the transition thresholds of lateral and longitudinal vehicle states are established based on the vehicle potential field model, leading to the formulation of transition rules between different states of autonomous vehicles (AVs).",
+    "volume": "7",
+    "issue": "1",
+    "firstpage": "19",
+    "lastpage": "29",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210025",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210025.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/3/31",
+    "online_date": "2024/3/31",
+    "internal_id": ""
+  },
+  {
+    "doi": "10.26599/JICV.2023.9210019",
+    "title": "A review of vehicle detection methods based on computer vision",
+    "authors": [
+      "Changxi Ma",
+      "Fansong Xue"
+    ],
+    "keywords": [
+      "intelligent transportation system",
+      "computer vision",
+      "deep learning",
+      "vehicle detection",
+      "object detection algorithm"
+    ],
+    "abstract": "With the increasing number of vehicles, there has been an unprecedented pressure on the operation and maintenance of intelligent transportation systems and transportation infrastructure. In order to achieve faster and more accurate identification of traffic vehicles, computer vision and deep learning technology play a vital role and have made significant advancements. This study summarizes the current research status, latest findings, and future development trends of traditional detection algorithms and deep learning-based detection algorithms. Among the detection algorithms based on deep learning, this study focuses on the representative convolutional neural network models. Specifically, it examines the two-stage and one-stage detection algorithms, which have been extensively utilized in the field of intelligent transportation systems. Compared to traditional detection algorithms, deep learning-based detection algorithms can achieve higher accuracy and efficiency. The single-stage detection algorithm is more efficient for real-time detection, while the two-stage detection algorithm is more accurate than the single-stage detection algorithm. In the follow-up research, it is important to consider the balance between detection efficiency and detection accuracy. Additionally, vehicle missed detection and false detection in complex scenes, such as bad weather and vehicle overlap, should be taken into account. This will ensure better application of the research findings in engineering practice.",
+    "volume": "7",
+    "issue": "1",
+    "firstpage": "1",
+    "lastpage": "18",
+    "year": 2024,
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/JICV.2023.9210019",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/JICV.2023.9210019.pdf",
+    "publisher": "清华大学出版社",
+    "issn": "2399-9802",
+    "publication_date": "2024/3/31",
+    "online_date": "2024/3/31",
+    "internal_id": ""
   }
 ]
