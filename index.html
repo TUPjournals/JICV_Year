@@ -586,7 +586,7 @@ function render() {
       '<div class="card-authors">' + formattedAuthors + '</div>' +
       (kws ? '<div class="card-keywords">' + kws + '</div>' : '') +
       (a.research_area && a.research_area.length ? '<div class="card-keywords"><span style="font-size:0.78rem;color:#666;margin-right:4px;font-weight:600">Research area:</span>' + a.research_area.map(ar => '<span class="kw kw-area">' + esc(ar) + '</span>').join('') + '</div>' : '') +
-      (a.doi ? '<div class="card-doi"><a href="https://doi.org/' + a.doi + '" target="_blank" onclick="event.stopPropagation()">https://www.sciopen.com/article/' + esc(a.doi) + '</a></div>' : '') +
+      (a.doi ? '<div class="card-doi"><a href="https://doi.org/' + a.doi + '" target="_blank" onclick="event.stopPropagation()">https://www.doi.org/' + esc(a.doi) + '</a></div>' : '') +
       '<div class="card-cite" onclick="event.stopPropagation()">' +
         '<span class="card-cite-text">' + getCiteText(a) + '</span>' +
         '<button class="card-cite-btn" data-doi="' + a.doi + '" onclick="copyCite(this)">Copy</button>' +
