@@ -716,9 +716,9 @@ function downloadBibTeX(btn) {
   if (a.issue) bib.push('number = {' + a.issue + '},');
   if (a.firstpage) bib.push('pages = {' + a.firstpage + (a.lastpage && a.lastpage !== a.firstpage ? '-' + a.lastpage : '') + '},');
   if (a.keywords && a.keywords.length) bib.push('keywords = {' + a.keywords.join(', ') + '},');
-  if (a.doi_url || 'https://doi.org/' + a.doi) bib.push('url = {' + a.doi_url || 'https://doi.org/' + a.doi + '},');
+  if (a.doi) bib.push('url = {https://doi.org/' + a.doi + '},');
   if (a.doi) bib.push('doi = {' + a.doi + '},');
-  if (a.abstract) bib.push('abstract = {' + stripHtml(a.abstract) + '}');
+  if (a.abstract) bib.push('abstract = {' + stripHtml(a.abstract) + '},');
   bib.push('}');
   const fn = (a.doi||'JICV').replace(/[/\\]/g,'_') + '.bib';
   download(bib.join('\r\n'), fn, 'application/x-bibtex;charset=utf-8;');
